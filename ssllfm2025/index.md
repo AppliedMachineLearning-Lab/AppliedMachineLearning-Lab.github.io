@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSLFM 2025
+title: Special Session on Large Language and Foundation Models 2025
 description: Co-located with DSAA 2025
 ---
 
