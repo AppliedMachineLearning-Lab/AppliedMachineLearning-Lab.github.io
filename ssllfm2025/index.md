@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SSLFM 2025
+description: Co-located with DSAA 2025
 ---
 
 # From Theory to Practice: Special Session on Large Language and Foundation Models
