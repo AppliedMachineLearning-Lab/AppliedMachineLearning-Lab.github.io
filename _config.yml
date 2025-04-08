@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: AML Lab @ University of Bonn
 description: Static pages of the AML Lab @ Uni Bonn.
+exclude:
+  - README.md
