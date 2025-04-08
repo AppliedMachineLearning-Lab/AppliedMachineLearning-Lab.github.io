@@ -9,4 +9,4 @@ For more information about our lab, our members, and our research, please visit 
 
 
 ## Workshops, Special Sessions, and Conferences
-- ["From Theory to Practice: Special Session on Large Language and Foundation Models" at DSAA 2025 ](./ssllfm2025/)
+- ["_From Theory to Practice: Special Session on Large Language and Foundation Models_" at DSAA 2025 ](./ssllfm2025/)
