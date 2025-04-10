@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<link rel="icon" type="image/x-icon" href="/assets/aml_lab_tight.ico" />
 
 Welcome to the Github pages of the Applied Machine Learning Lab at University of Bonn.
 

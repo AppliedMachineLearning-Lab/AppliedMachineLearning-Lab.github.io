@@ -3,6 +3,7 @@ layout: default
 title: Special Session on Large Language and Foundation Models 2025
 description: Co-located with DSAA 2025
 ---
+<link rel="icon" type="image/x-icon" href="/assets/aml_lab_tight.ico" />
 
 # From Theory to Practice: Special Session on Large Language and Foundation Models
 
