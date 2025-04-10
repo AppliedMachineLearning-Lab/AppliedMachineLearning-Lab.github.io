@@ -7,7 +7,7 @@ description: Co-located with DSAA 2025
 # From Theory to Practice: Special Session on Large Language and Foundation Models
 
 **Location**: Birmingham, UK  
-**Conference**: DSAA 2025 (IEEE International Conference on Data Science and Advanced Analytics)  
+**Conference**: [DSAA 2025](https://dsaa.ieee.org/2025/) (IEEE International Conference on Data Science and Advanced Analytics)  
 **Date**: October 9-13, 2025 (exact date to be announced)
 
 Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
