@@ -19,7 +19,7 @@ breakthrough techniques and operational challenges, the session aims to foster c
 innovation, and elucidate pathways for seamless integration of large language models into diverse data-driven 
 ecosystems.
 
-- Submission Deadline: **May 2nd, 2025**
+- Submission Deadline: **May 16th, 2025** (Extended from May 2nd)
 - Paper Notification: **July 24th, 2025**
 - Paper Camera-Ready: **August 21st, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
