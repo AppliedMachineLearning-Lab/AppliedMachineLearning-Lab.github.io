@@ -12,10 +12,10 @@ description: Co-located with IEEE BigData 2025
 **Date**: December 8-11, 2025 (exact date to be announced)
 
 Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
-offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. This special 
-session seeks to bridge cutting-edge theory with real-world applications, providing a venue for researchers and 
+offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. The third iteration of 
+this workshop seeks to bridge cutting-edge theory with real-world applications, providing a venue for researchers and 
 practitioners to exchange novel methodologies, deployment strategies, and impact-driven insights. By spot-lighting both 
-breakthrough techniques and operational challenges, the session aims to foster cross-pollination of ideas, accelerate 
+breakthrough techniques and operational challenges, the workshop aims to foster cross-pollination of ideas, accelerate 
 innovation, and elucidate pathways for seamless integration of large language models into diverse data-driven 
 ecosystems.
 
@@ -89,3 +89,9 @@ and will be submitted for inclusion in the IEEEXplore Digital Library.
 - Tobias Deußer (Fraunhofer IAIS, Germany)
 - Linsey Pang (Salesforce, USA) 
 - Dr. Lorenz Sparrenberg (University of Bonn, Germany)
+
+## Previous iterations
+
+- [SSLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)
+- [WLLFM 2024](https://sites.google.com/view/wllfm24)
+- [WLLFM 2023](https://dhavalrepo18.github.io/bigdatafm/)
