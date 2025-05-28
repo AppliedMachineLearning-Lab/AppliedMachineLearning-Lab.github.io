@@ -1,0 +1,91 @@
+---
+layout: default
+title: Workshop on Large Language and Foundation Models 2025
+description: Co-located with IEEE BigData 2025
+---
+<link rel="icon" type="image/x-icon" href="/assets/aml_lab_tight.ico" />
+
+# From Theory to Practice: Workshop on Large Language and Foundation Models
+
+**Location**: Online  
+**Conference**: [BigData 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025) (IEEE International Conference on Big Data)  
+**Date**: December 8-11, 2025 (exact date to be announced)
+
+Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
+offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. This special 
+session seeks to bridge cutting-edge theory with real-world applications, providing a venue for researchers and 
+practitioners to exchange novel methodologies, deployment strategies, and impact-driven insights. By spot-lighting both 
+breakthrough techniques and operational challenges, the session aims to foster cross-pollination of ideas, accelerate 
+innovation, and elucidate pathways for seamless integration of large language models into diverse data-driven 
+ecosystems.
+
+- Submission Deadline: **tba**
+- Paper Notification: **tba**
+- Paper Camera-Ready: **tba**
+- Contact: `amllab[at]bit.uni-bonn.de`
+
+## Submission
+
+Submission instructions will be published soon.
+
+## Call for Papers
+
+The topics of interest are, but not limited to:
+
+- Model Training and Optimization:
+  - Techniques to deal with hallucinations
+  - Training data for LLMs
+  - Efficient and stable techniques for training and finetuning LLMs 
+  - Scalable approaches for distributed model training 
+  - Middleware for scale out data preparation for LLM training 
+  - Workflow orchestration for end-to-end LLM life cycle 
+  - Resource management for compute and energy efficient model training 
+  - Representation learning
+- Model Utilization and Integration:
+  - Using LLMs effectively as tools for Reinforcement Learning or search 
+  - Enhancing LLM capabilities by using external tools such as search engines 
+  - Visual Prompt Tuning and in-context learning 
+  - Enable easy experimentation with high utilization to train foundational models in the cloud 
+  - Strategies to scale resources for training/fine-tuning foundational models 
+  - Instruction tuning including generation of instruction tuning data 
+  - Parallel training: data model tensor (attention and weights)
+  - Distributed workflows for data cleansing and model usage (Langchain)
+  - Principled AI 
+  - Investigating reasoning capabilities of LLMs 
+  - Retrieval Augmented Generation 
+  - Alternative architectures such as State Space Models 
+- Compact Language Models and Knowledge Distillation:
+  - Knowledge representations for training small/compact language models 
+  - Evaluation of different teacher-student distillation and model compression strategies 
+  - Techniques for efficient data encoding to maintain linguistic properties in compact models 
+  - Deployment of lightweight models in resource-constrained environments 
+  - Case studies on the effectiveness in various NLP tasks
+- Application-Specific Models:
+  - Math LLMs
+  - Multimodal Foundation Models 
+  - Trustworthy Foundation Models
+  - Large-scale Visual Foundation Models
+  - Timeseries foundation models for forecasting, prediction and control 
+  - Multi-Agent System using LLMs
+  - Recommender systems using LLMs
+  - Knowledge management using LLMs
+- Knowledge Incorporation and Adaptation:
+  - Approaches to deal with knowledge recency to effectively update knowledge within LLMs 
+  - Incorporating domain knowledge in LLMs
+- Evaluation and Benchmarking:
+  - Additional benchmarks to fill gap between human and automatic reference-based evaluation
+
+## Proceedings and Indexing
+
+All accepted workshop papers will be published by IEEE in the BigData proceedings
+and will be submitted for inclusion in the IEEEXplore Digital Library.
+
+
+## Organizers
+
+- Prof. Dr. Rafet Sifa (University of Bonn, Germany)
+- Prof. Dr. Wei Liu (University of Technology Sydney, Australia)
+- Dr. Dhavel Patel (IBM Research, USA)
+- Tobias Deußer (Fraunhofer IAIS, Germany)
+- Linsey Pang (Salesforce, USA) 
+- Dr. Lorenz Sparrenberg (University of Bonn, Germany)
