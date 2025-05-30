@@ -92,6 +92,6 @@ and will be submitted for inclusion in the IEEEXplore Digital Library.
 
 ## Previous iterations
 
-- [SSLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)
+- [SSLLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)
 - [WLLFM 2024](https://sites.google.com/view/wllfm24)
 - [WLLFM 2023](https://dhavalrepo18.github.io/bigdatafm/)
