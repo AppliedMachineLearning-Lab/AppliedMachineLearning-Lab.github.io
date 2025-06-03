@@ -87,7 +87,7 @@ and will be submitted for inclusion in the IEEEXplore Digital Library.
 - Prof. Dr. Wei Liu (University of Technology Sydney, Australia)
 - Dr. Dhavel Patel (IBM Research, USA)
 - Tobias Deußer (Fraunhofer IAIS, Germany)
-- Linsey Pang (Salesforce, USA) 
+- Dr. Linsey Pang (Salesforce, USA) 
 - Dr. Lorenz Sparrenberg (University of Bonn, Germany)
 
 ## Previous iterations
