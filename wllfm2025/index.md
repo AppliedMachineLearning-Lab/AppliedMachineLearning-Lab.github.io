@@ -19,9 +19,9 @@ breakthrough techniques and operational challenges, the workshop aims to foster 
 innovation, and elucidate pathways for seamless integration of large language models into diverse data-driven 
 ecosystems.
 
-- Submission Deadline: **tba**
-- Paper Notification: **tba**
-- Paper Camera-Ready: **tba**
+- Submission Deadline: **October 10th, 2025**
+- Paper Notification: **November 3rd, 2025**
+- Paper Camera-Ready: **December 13th, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
 
 ## Submission
