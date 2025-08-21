@@ -21,7 +21,7 @@ ecosystems.
 
 - Submission Deadline: **May 16th, 2025** (Extended from May 2nd)
 - Paper Notification: **July 24th, 2025**
-- Paper Camera-Ready: **August 28st, 2025**
+- Paper Camera-Ready: **August 28th, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
 
 ## Submission
