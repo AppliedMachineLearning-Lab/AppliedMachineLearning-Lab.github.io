@@ -9,7 +9,7 @@ description: Co-located with DSAA 2025
 
 **Location**: Birmingham, UK  
 **Conference**: [DSAA 2025](https://dsaa.ieee.org/2025/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 9-13, 2025 (exact date to be announced)
+**Date**: October 9-12, 2025 (exact date to be announced)
 
 Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
 offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. This special 
@@ -21,7 +21,7 @@ ecosystems.
 
 - Submission Deadline: **May 16th, 2025** (Extended from May 2nd)
 - Paper Notification: **July 24th, 2025**
-- Paper Camera-Ready: **August 21st, 2025**
+- Paper Camera-Ready: **August 28st, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
 
 ## Submission
