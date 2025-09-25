@@ -26,7 +26,19 @@ ecosystems.
 
 ## Submission
 
-Submission instructions will be published soon.
+[Submission Link](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S31&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)
+
+Papers should be submitted single blind.
+
+Paper formats are:
+
+- Long papers:  up to 10 pages including all figures, tables, and references
+- Short and vision papers: up to 6 pages including all figures, tables, and references
+- Papers should be submitted single blind.
+
+All papers must be submitted in the IEEE conference format:
+- Official templates: https://www.ieee.org/conferences/publishing/templates.html
+- Overleaf templates: https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
 
 ## Call for Papers
 
