@@ -7,9 +7,9 @@ description: Co-located with DSAA 2025
 
 # From Theory to Practice: Special Session on Large Language and Foundation Models
 
-**Location**: Birmingham, UK  
+**Location**: Composer’s Suite, Edgbaston Park Hotel, University of Birmingham, Birmingham, UK  
 **Conference**: [DSAA 2025](https://dsaa.ieee.org/2025/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 9-12, 2025 (exact date to be announced)
+**Date**: October 9, 2025
 
 Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
 offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. This special 
@@ -23,6 +23,42 @@ ecosystems.
 - Paper Notification: **July 24th, 2025**
 - Paper Camera-Ready: **August 28th, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
+
+## Agenda
+
+| Time          | Paper / Speaker                                                                 | Presenter           |
+|---------------|---------------------------------------------------------------------------------|---------------------|
+| 11:00 – 11:30 | **Keynote:** Making GPUs go BRRRR: Scaling LLM pretraining to thousands of GPUs     | Max Lübbering       |
+| 11:30 – 11:45 | Paper 197: Towards LLM-guided Healthcare Dataset Harmonization                  | Christos Smailis    |
+| 11:45 – 12:00 | Paper 149: Reasoning LLMs in the Medical Domain: A Literature Survey            | Armin Berger        |
+| 12:00 – 12:15 | Paper 159: Semi-Supervised Relation Extraction Informed by LLMs                 | Nikita Gautam       |
+| 12:15 – 12:30 | Paper 29: Reproducibility and Case Sensitivity of LLMs for Anonymizing Tweets   | Sameen Mansha       |
+| 12:30 – 13:30 | Lunch Break                                                                     |                     |
+| 13:30 – 13:45 | Paper 136: A Survey on Large Language Model Quantization Methods                | Lorenz Sparrenberg  |
+| 13:45 – 14:00 | Paper 84: Predicting Player Churn with LLMs                                     | Tobias Schneider    |
+| 14:00 – 14:15 | Paper 44: Student-perceived Cognitive Load of LLM-generated Programming Tasks   | Ludia Eka Feri      |
+| 14:15 – 14:30 | Paper 119: Digitizing P&IDs with Transformers                                   | —                   |
+| 14:30 – 15:00 | **Keynote:** Topology-Informed Fine-Tuning and Quantization of Large Language Models| Cüneyt Gürcan Akçora|
+
+## Keynotes
+
+### Making GPUs go BRRRR: Scaling LLM pretraining to thousands of GPUs
+
+**Max Lübbering**, Senior Research Scientist, Lamarr Institute
+
+Max Lübbering is a Research Scientist at the Lamarr Institute and Fraunhofer IAIS, specializing in large-scale pretraining of multilingual large language models (LLMs). He is a founding member of the Eurolingua-GPT project, which trains a new family of European LLMs on leading European supercomputers.
+He designed and now leads the development of Modalities, a PyTorch-native open-source framework for efficient and reproducible LLM pretraining at scale. Modalities scales training to thousands of GPUs, implements state-of-the-art parallelism and checkpointing techniques, and currently powers all Eurolingua trainings.
+Max holds a Ph.D. in Computer Science from the University of Bonn, where he worked on uncertainty estimation in deep learning. He has published at EMNLP, NAACL, ECAI, ICSA, and ICDE Workshops, and is passionate about advancing boundaries of foundation model research.
+
+**Abstract**: tba.
+
+### Topology-Informed Fine-Tuning and Quantization of Large Language Models
+
+**Cüneyt Gürcan Akçora**, Associate Professor, University of Central Florida
+
+Cüneyt Gürcan Akçora is an Associate Professor at the University of Central Florida with joint appointments in the Finance Department and the AI Initiative. His research spans graph machine learning, topological data analysis, and large-scale data systems. He has published in leading venues such as ICLR, VLDB, KDD, NeurIPS, and IJCAI, with contributions on topological methods for blockchain analytics and graph machine learning.
+
+**Abstract**: Fine-tuning and quantization are key to adapting large language models for practical use, yet both processes risk model degradation and unstable performance. This talk presents a topological perspective on monitoring and guiding these adaptations. By transforming attention weight matrices across training epochs into persistence diagrams and measuring Wasserstein distances, we capture how internal representations evolve during fine-tuning and low-rank adaptation. These signals help identify optimal stopping points, stable layers, and effective LoRA rank choices. We also explore how topology can shed light on quantization effects, revealing when model compression preserves or disrupts learned structures. Together, these methods offer new insights into reliable and efficient LLM deployment.
 
 ## Submission
 
