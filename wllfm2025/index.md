@@ -9,7 +9,7 @@ description: Co-located with IEEE BigData 2025
 
 **Location**: Online  
 **Conference**: [BigData 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025) (IEEE International Conference on Big Data)  
-**Date**: December 8-11, 2025 (exact date to be announced)
+**Date**: **December 9th, 2025**
 
 Large language and foundation models have rapidly emerged as pivotal technologies in data science and analytics, 
 offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. The third iteration of 
