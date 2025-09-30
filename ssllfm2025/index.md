@@ -50,7 +50,7 @@ Max Lübbering is a Research Scientist at the Lamarr Institute and Fraunhofer IA
 He designed and now leads the development of Modalities, a PyTorch-native open-source framework for efficient and reproducible LLM pretraining at scale. Modalities scales training to thousands of GPUs, implements state-of-the-art parallelism and checkpointing techniques, and currently powers all Eurolingua trainings.
 Max holds a Ph.D. in Computer Science from the University of Bonn, where he worked on uncertainty estimation in deep learning. He has published at EMNLP, NAACL, ECAI, ICSA, and ICDE Workshops, and is passionate about advancing boundaries of foundation model research.
 
-**Abstract**: tba.
+**Abstract**: Scaling large language model pretraining isn’t just about throwing more GPUs at the problem. It’s about making them go BRRRR efficiently. This talk dives into the practical engineering behind training LLMs on thousands of GPUs, covering how techniques like Fully Sharded Data Parallel (FSDP), Tensor Parallelism (TP), and Pipeline Parallelism (PP) fit together in large-scale setups. We’ll look at trade-offs in memory, communication, and throughput, and discuss how to combine these strategies in production-grade training runs. Finally, we’ll explore how the [Modalities](https://github.com/Modalities/modalities) framework ties it all together, providing a reproducible and flexible foundation for massive distributed training. Attendees will leave with a practical understanding of how to push large-scale LLM pretraining to the limit and how to do it without losing their sanity.
 
 ### Topology-Informed Fine-Tuning and Quantization of Large Language Models
 
