@@ -29,16 +29,17 @@ ecosystems.
 | Time          | Paper / Speaker                                                                 | Presenter           |
 |---------------|---------------------------------------------------------------------------------|---------------------|
 | 11:00 – 11:30 | **Keynote:** Making GPUs go BRRRR: Scaling LLM pretraining to thousands of GPUs     | Max Lübbering       |
-| 11:30 – 11:45 | Paper 197: Towards LLM-guided Healthcare Dataset Harmonization                  | Christos Smailis    |
-| 11:45 – 12:00 | Paper 149: Reasoning LLMs in the Medical Domain: A Literature Survey            | Armin Berger        |
-| 12:00 – 12:15 | Paper 159: Semi-Supervised Relation Extraction Informed by LLMs                 | Nikita Gautam       |
-| 12:15 – 12:30 | Paper 29: Reproducibility and Case Sensitivity of LLMs for Anonymizing Tweets   | Sameen Mansha       |
+| 11:30 – 11:50 | Paper 197: Towards LLM-guided Healthcare Dataset Harmonization                  | Christos Smailis    |
+| 11:60 – 12:10 | Paper 149: Reasoning LLMs in the Medical Domain: A Literature Survey            | Armin Berger        |
+| 12:10 – 12:30 | Paper 159: Semi-Supervised Relation Extraction Informed by LLMs                 | Nikita Gautam       |
 | 12:30 – 13:30 | Lunch Break                                                                     |                     |
-| 13:30 – 13:45 | Paper 136: A Survey on Large Language Model Quantization Methods                | Lorenz Sparrenberg  |
-| 13:45 – 14:00 | Paper 84: Predicting Player Churn with LLMs                                     | Tobias Schneider    |
-| 14:00 – 14:15 | Paper 44: Student-perceived Cognitive Load of LLM-generated Programming Tasks   | Ludia Eka Feri      |
-| 14:15 – 14:30 | Paper 119: Digitizing P&IDs with Transformers                                   | —                   |
+| 13:30 – 13:50 | Paper 29: Reproducibility and Case Sensitivity of LLMs for Anonymizing Tweets   | Sameen Mansha       |
+| 13:50 – 14:10 | Paper 136: A Survey on Large Language Model Quantization Methods                | Lorenz Sparrenberg  |
+| 14:10 – 14:30 | Paper 84: Predicting Player Churn with LLMs                                     | Tobias Schneider    |
 | 14:30 – 15:00 | **Keynote:** Topology-Informed Fine-Tuning and Quantization of Large Language Models| Cüneyt Gürcan Akçora|
+| 15:00 – 15:30 | Coffee Break                                                                    |                     |
+| 15:30 – 15:50 | Paper 44: Student-perceived Cognitive Load of LLM-generated Programming Tasks   | Ludia Eka Feri      |
+| 15:50 – 16:10 | Paper 119: Digitizing P&IDs with Transformers                                   | —                   |
 
 ## Keynotes
 
