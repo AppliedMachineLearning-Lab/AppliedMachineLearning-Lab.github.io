@@ -30,7 +30,7 @@ ecosystems.
 |---------------|---------------------------------------------------------------------------------|---------------------|
 | 11:00 – 11:30 | **Keynote:** Making GPUs go BRRRR: Scaling LLM pretraining to thousands of GPUs     | Max Lübbering       |
 | 11:30 – 11:50 | Paper 197: Towards LLM-guided Healthcare Dataset Harmonization                  | Christos Smailis    |
-| 11:60 – 12:10 | Paper 149: Reasoning LLMs in the Medical Domain: A Literature Survey            | Armin Berger        |
+| 11:50 – 12:10 | Paper 149: Reasoning LLMs in the Medical Domain: A Literature Survey            | Armin Berger        |
 | 12:10 – 12:30 | Paper 159: Semi-Supervised Relation Extraction Informed by LLMs                 | Nikita Gautam       |
 | 12:30 – 13:30 | Lunch Break                                                                     |                     |
 | 13:30 – 13:50 | Paper 29: Reproducibility and Case Sensitivity of LLMs for Anonymizing Tweets   | Sameen Mansha       |
