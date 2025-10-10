@@ -1,3 +1,9 @@
+---
+layout: default
+title: Courses @ AML-Lab
+description: An overview of teaching activities of the AML-Lab
+---
+
 # Course: Introduction to Learning Systems and Data Science
 
 This course, part of the curriculum for aspiring data scientists and AI practitioners, offers a foundational understanding of key concepts and methodologies in learning systems and data science. The primary focus is on learning systems, their architectures, and how they can be effectively designed and implemented to solve complex problems.
