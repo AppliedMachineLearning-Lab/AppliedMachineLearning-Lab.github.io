@@ -1,5 +1,5 @@
 title: AML Lab @ University of Bonn
-description: Static pages of the AML Lab @ Uni Bonn.
+description: The web page of the AML Lab @ Uni Bonn.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
