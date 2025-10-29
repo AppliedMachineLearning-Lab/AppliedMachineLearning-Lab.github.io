@@ -20,3 +20,8 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 |              Lecture 11 | 28. Jan | Recap                       |
 |                         | 04. Feb | Final Exam                  |
 |                         | 13. Mar | Final Exam (retake)         |
+
+## Lecure Notes
+[ZIP Download](Lecture_01_MMDI_WS2025.zip)
+
+## Assignments
