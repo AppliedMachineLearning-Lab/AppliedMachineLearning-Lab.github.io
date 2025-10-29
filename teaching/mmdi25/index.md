@@ -23,5 +23,6 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 
 ## Lecure Notes
 - Lecture 01: [ZIP Download](Lecture_01_MMDI_WS2025.zip)
+- Lecture 02: [ZIP Download](Lecture_02_MMDI_WS2025.zip)
 
 ## Assignments
