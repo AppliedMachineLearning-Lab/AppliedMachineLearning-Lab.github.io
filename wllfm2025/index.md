@@ -102,6 +102,18 @@ and will be submitted for inclusion in the IEEEXplore Digital Library.
 - Dr. Linsey Pang (Salesforce, USA) 
 - Dr. Lorenz Sparrenberg (University of Bonn, Germany)
 
+## Program Committee
+
+- Farizeh Aldabbas,	Fraunhofer IAIS, Germany  
+- Manuela Bergau, Fraunhofer IAIS, Germany  
+- Armin Berger, University of Bonn, Germany  
+- Hossam Elsafty, Fraunhofer IAIS, Germany  
+- Pranay Kona, Walmart, USA  
+- Deep Narayan Mishra, Walmart, USA  
+- Surya Lakshmi Sujitha Pasumarty, Albertsons, USA  
+- Corinna Schmalohr, Universitätsklinikum Bonn, Germany  
+- Dezhi Yu, UC Berkeley, USA
+
 ## Previous iterations
 
 - [SSLLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)
