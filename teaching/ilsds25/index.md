@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Learning Systems and Data Science
-description: 
+description: Winter Semester 2025/2026
 ---
 # Course: Introduction to Learning Systems and Data Science
 
@@ -51,3 +51,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 | Lecture 11 | 22.01.26   | Natural Language Understanding       |                          |
 | Lecture 12 | 29.01.26   | Misc, Recap                          |                          |
 | Exam       | 05.02.26   |                                      |                          |
+
+## Course Materials
+
+- [Lecture 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_1_Intro.pdf.zip)
