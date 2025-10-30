@@ -10,7 +10,7 @@ At AML Lab, we have made it our mission to bridge the gap between cutting-edge t
 
 If you want to reach out to us, please write us:
 
-amllab[at]bit.uni-bonn.de
+`amllab[at]bit.uni-bonn.de`
 
 For more information about our lab, our members, and our research, please visit our [main website](https://www.b-it-center.de/research-groups/applied-machine-learning-lab).
 
