@@ -4,6 +4,10 @@ This repository contains the website for the Applied Machine Learning (AML) Lab 
 
 ## Getting Started Locally
 
+Start here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+
+Then:
+
 1. **Install dependencies**:
    ```bash
    bundle install
