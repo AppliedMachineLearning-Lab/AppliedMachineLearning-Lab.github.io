@@ -54,4 +54,10 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 ## Course Materials
 
+### Lecture Slides
+
 - [Lecture 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_1_Intro.pdf.zip)
+
+### Assignments
+
+- [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_1_ILSDS_WS25.pdf.zip)
