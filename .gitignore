@@ -2,3 +2,16 @@
 
 # claude code
 CLAUDE.md
+
+# jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# bundler
+.bundle/
+vendor/
+
+# lock files
+*.lock
