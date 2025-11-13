@@ -34,23 +34,23 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 ## Course Schedule
 
-| Lecture   | Date       | Lecture Title                        | Lecture +               |
-|------------|------------|--------------------------------------|--------------------------|
-| Lecture 1  | 30.10.25   | Course Intro                         |                          |
-| Lecture 2  | 06.11.25   | Mathematical Cores                   |                          |
-| Lecture 3  | 13.11.25   | Mathematical Cores                   |                          |
-| Lecture 4  | 20.11.25   | Mathematical Cores                   | Pytorch                  |
-| Lecture 5  | 27.11.25   | Optimization Techniques for Learning |                          |
-| Lecture 6  | 04.12.25   | Introduction to Machine Learning     | Advanced Optimization     |
-| Lecture 7  | 11.12.25   | Introduction to Machine Learning     | NLP Cores                 |
-| Lecture 8  | 18.12.25   | Deep Learning                        |                          |
-| Christmas           | 25.12.25   |                             |                          |
-| New Year's Day           | 01.01.26   |                        |                          |
-| Lecture 9  | 08.01.26   | Deep Learning                        |                          |
-| Lecture 10 | 15.01.26   | Natural Language Understanding       | Medical Imaging & RL      |
-| Lecture 11 | 22.01.26   | Natural Language Understanding       |                          |
-| Lecture 12 | 29.01.26   | Misc, Recap                          |                          |
-| Exam       | 05.02.26   |                                      |                          |
+| Lecture   | Date       | Lecture Title                        | Lecture +                 | Assignment               |
+|------------|------------|--------------------------------------|--------------------------|--------------------------|
+| Lecture 1  | 30.10.25   | Course Intro                         |                          |                          |
+| Lecture 2  | 06.11.25   | Mathematical Cores                   |                          |                          |
+| Lecture 3  | 13.11.25   | Mathematical Cores                   |                          |                          |
+| Lecture 4  | 20.11.25   | Mathematical Cores                   | Pytorch                  |                          |
+| Lecture 5  | 27.11.25   | Optimization Techniques for Learning |                          | Assignment 1 Discussion |
+| Lecture 6  | 04.12.25   | Introduction to Machine Learning     | Advanced Optimization     |                          |
+| Lecture 7  | 11.12.25   | Introduction to Machine Learning     | NLP Cores                 |                          |
+| Lecture 8  | 18.12.25   | Deep Learning                        |                          | Assignment 2 Discussion |
+| Christmas           | 25.12.25   |                             |                          |                          |
+| New Year's Day           | 01.01.26   |                        |                          |                          |
+| Lecture 9  | 08.01.26   | Deep Learning                        |                          |                          |
+| Lecture 10 | 15.01.26   | Natural Language Understanding       | Medical Imaging & RL      |                          |
+| Lecture 11 | 22.01.26   | Natural Language Understanding       |                          | Assignment 3 Discussion |
+| Lecture 12 | 29.01.26   | Misc, Recap                          |                          |                          |
+| Exam       | 05.02.26   |                                      |                          |                          |
 
 ## Course Materials
 
