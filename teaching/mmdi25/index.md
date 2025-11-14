@@ -25,6 +25,7 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 - Lecture 01: [ZIP Download](Lecture_01_MMDI_WS2025.zip)
 - Lecture 02: [ZIP Download](Lecture_02_MMDI_WS2025.zip)
 - Lecture 03: [ZIP Download](Lecture_03_MMDI_WS2025.zip)
+- Lecture 04: [ZIP Download](Lecture_04_MMDI_WS2025.zip)
 
 ## Assignments
 - Assignment 01: [ZIP Download](MMDI_Assignment_01.zip)
