@@ -19,7 +19,7 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 | Lecture 10/Assignment 3 | 21. Jan | Preditctive Data Mining III |
 |              Lecture 11 | 28. Jan | Recap                       |
 |                         | 11. Feb | Final Exam                  |
-|                         | 20. Mar | Final Exam (retake)         |
+|                         | TBA     | Final Exam (retake)         |
 
 ## Lecure Notes
 - Lecture 01: [ZIP Download](Lecture_01_MMDI_WS2025.zip)
