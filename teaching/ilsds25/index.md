@@ -58,6 +58,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 - [Lecture 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_1_Intro.pdf.zip)
 - [Lecture 2 - 4](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_2_MathCores.pdf.zip)
+- [Lecture 5](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_3_Optimization.pdf.zip)
 
 
 - Lecture+ 1:
