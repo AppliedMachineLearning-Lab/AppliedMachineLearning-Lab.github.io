@@ -19,3 +19,8 @@ Then:
    ```
 
 3. **View the site**: Open `http://localhost:4000` in your browser
+
+
+## Files
+
+Please *do not* commit files for downloading (like lecture slides or assignments) into this repo. Create a separate repo or use a different hoster for this.
