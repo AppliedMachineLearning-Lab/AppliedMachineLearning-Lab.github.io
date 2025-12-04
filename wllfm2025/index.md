@@ -24,6 +24,24 @@ ecosystems.
 - Paper Camera-Ready: **November 13th, 2025**
 - Contact: `amllab[at]bit.uni-bonn.de`
 
+## Workshop Agenda
+
+The workshop will take place online on December 9th, 2025. Please note that the times are in Central European Time (CET). The Zoom link will be shared here shortly before the workshop begins on the same day.
+
+| Time (CET)           | Title                                                                                       | Presenter/Author               |
+|----------------------|---------------------------------------------------------------------------------------------|--------------------------------|
+| 13:00–13:15          | Welcome Words                                                                                |                                |
+| 13:15–13:45          | Large Language Models for Fault Diagnosis                                                   | Wensheng Gan                   |
+| 13:45–14:15          | Quantifying and Mitigating Occupational Bias in Open-Source Large Language Models            | Raghava Rao Mukkamala          |
+| 14:15–14:45          | Geometric Model Merging for Efficient and Scalable Adaptation of Large Language Models       | Bikram Pratim Bhuyan           |
+| 14:45–15:15          | Optimizing Agentic Code Generation: Cost Efficiency, Observability and Orchestration         | Alex Kaplunovich               |
+| 15:15–15:45          | Coffee Break                                                                                 |                                |
+| 15:45–16:30          | Key Note: TBA                                                                                           | TBA                            |
+| 16:30–17:00          | CloudBot: Autonomous End-to-End Cloud Deployment from Code to Infrastructure                  | Oluwatobiloba Ódùnsì            |
+| 17:00–17:45          |  Key Note: TBA                                                                             | TBA                            |
+| 17:45–17:50          |  Closing Remarks                                                                                             |                                |
+
+
 ## Submission
 
 [Submission Link](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S31&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)
