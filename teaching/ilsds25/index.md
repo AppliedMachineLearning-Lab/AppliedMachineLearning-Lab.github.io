@@ -72,4 +72,4 @@ Practical Examples will serve as a capstone to the course, where students will e
 ### Assignments
 
 - [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_1_ILSDS_WS25.pdf.zip)
-- [Assignment 2]([https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_2_ILSDS_WS25.pdf.zip])
+- [Assignment 2](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_2_ILSDS_WS25.pdf.zip)
