@@ -30,3 +30,4 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 
 ## Assignments
 - Assignment 01: [ZIP Download](MMDI_Assignment_01.zip)
+- Assignment 02: [ZIP Download](MMDI_Assignment_02.zip)
