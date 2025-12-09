@@ -28,13 +28,6 @@ ecosystems.
 
 The workshop will take place online on December 9th, 2025. Please note that the times are in Central European Time (CET). 
 
-Zoom Link [open at 12:45 (CET)]: 
-```
-https://iais-fraunhofer-de.zoom.us/j/87374445108?pwd=dSgtpr4fZ2fSlUfFCgawTJRW4C5z8j.1
-
-Meeting-ID: 873 7444 5108
-Kenncode: 972411
-```
 
 | Time (CET)           | Title                                                                                       | Presenter/Author               |
 |----------------------|---------------------------------------------------------------------------------------------|--------------------------------|
