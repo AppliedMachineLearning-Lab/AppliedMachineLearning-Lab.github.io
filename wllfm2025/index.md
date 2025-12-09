@@ -26,7 +26,15 @@ ecosystems.
 
 ## Workshop Agenda
 
-The workshop will take place online on December 9th, 2025. Please note that the times are in Central European Time (CET). The Zoom link will be shared here shortly before the workshop begins on the same day.
+The workshop will take place online on December 9th, 2025. Please note that the times are in Central European Time (CET). 
+
+Zoom Link [open at 12:45 (CET)]: 
+```
+https://iais-fraunhofer-de.zoom.us/j/87374445108?pwd=dSgtpr4fZ2fSlUfFCgawTJRW4C5z8j.1
+
+Meeting-ID: 873 7444 5108
+Kenncode: 972411
+```
 
 | Time (CET)           | Title                                                                                       | Presenter/Author               |
 |----------------------|---------------------------------------------------------------------------------------------|--------------------------------|
@@ -36,9 +44,9 @@ The workshop will take place online on December 9th, 2025. Please note that the 
 | 14:15–14:45          | Geometric Model Merging for Efficient and Scalable Adaptation of Large Language Models       | Bikram Pratim Bhuyan           |
 | 14:45–15:15          | Optimizing Agentic Code Generation: Cost Efficiency, Observability and Orchestration         | Alex Kaplunovich               |
 | 15:15–15:45          | Coffee Break                                                                                 |                                |
-| 15:45–16:30          | Key Note: TBA                                                                                           | TBA                            |
+| 15:45–16:30          | Key Note: Cancelled                                                                                         |                           |
 | 16:30–17:00          | CloudBot: Autonomous End-to-End Cloud Deployment from Code to Infrastructure                  | Oluwatobiloba Ódùnsì            |
-| 17:00–17:45          |  Key Note: TBA                                                                             | TBA                            |
+| 17:00–17:45          |  Key Note: Cancelled                                                                            |                             |
 | 17:45–17:50          |  Closing Remarks                                                                                             |                                |
 
 
