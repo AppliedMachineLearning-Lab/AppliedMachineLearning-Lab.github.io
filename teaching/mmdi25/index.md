@@ -22,13 +22,14 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 |                         | TBA     | Final Exam (retake)         |
 
 ## Lecure Notes
-- Lecture 01: [ZIP Download](Lecture_01_MMDI_WS2025.zip)
-- Lecture 02: [ZIP Download](Lecture_02_MMDI_WS2025.zip)
-- Lecture 03: [ZIP Download](Lecture_03_MMDI_WS2025.zip)
-- Lecture 04: [ZIP Download](Lecture_04_MMDI_WS2025.zip)
-- Lecture 05: [ZIP Download](Lecture_05_MMDI_WS2025.zip)
-- Lecture 06: [ZIP Download](Lecture_06_MMDI_WS2025.zip)
+- Lecture 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_01_MMDI_WS2025.zip)
+- Lecture 02: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_02_MMDI_WS2025.zip)
+- Lecture 03: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_03_MMDI_WS2025.zip)
+- Lecture 04: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_04_MMDI_WS2025.zip)
+- Lecture 05: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_05_MMDI_WS2025.zip)
+- Lecture 06: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_06_MMDI_WS2025.zip)
+- Lecture 07: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/Lecture_07_MMDI_WS2025.zip)
 
 ## Assignments
-- Assignment 01: [ZIP Download](MMDI_Assignment_01.zip)
-- Assignment 02: [ZIP Download](MMDI_Assignment_02.zip)
+- Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/MMDI_Assignment_01.zip)
+- Assignment 02: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/MMDI_Assignment_02.zip)
