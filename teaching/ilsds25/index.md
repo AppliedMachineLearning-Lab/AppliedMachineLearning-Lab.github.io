@@ -61,9 +61,10 @@ Practical Examples will serve as a capstone to the course, where students will e
 - [Lecture 5](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_3_Optimization.pdf.zip)
 
 
-- Lecture+ 1:
+- Lecture+:
     - [Pytorch Lightning Introduction](https://lightning.ai/docs/pytorch/stable/levels/core_skills.html)
     - [Pytorch Introduction (Alternative)](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
+    - [Introduction to NLP](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Lecture_Plus_Introduction_to_NLP.pdf.zip)
 
 ### Assignments
 
