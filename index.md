@@ -4,7 +4,7 @@ title: Applied Machine Learning Lab
 ---
 <link rel="icon" type="image/x-icon" href="/assets/aml_lab_tight.ico" />
 
-![AML Lab Team](/assets/teamphoto.jpg)
+![AML Lab Team](/assets/team_rafet.jpg)
 
 Welcome to the web page of the Applied Machine Learning (AML) Lab at the University of Bonn. Led by Prof. Dr. Rafet Sifa, the Applied Machine Learning Lab focuses on addressing the challenges of implementing machine learning models in real-world settings while developing novel methods for pattern analysis and representation learning. The lab's primary area of investigation is based on constructing hybrid, interpretable, and resource-aware learning systems with practical applications in text mining, behavioral analytics, and medical informatics.
 

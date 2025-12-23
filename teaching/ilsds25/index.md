@@ -21,6 +21,10 @@ Human-centred Design principles will be emphasized to ensure that learning syste
 
 Practical Examples will serve as a capstone to the course, where students will engage in hands-on projects that reinforce learning. These projects will allow participants to apply the theoretical concepts learned throughout the course to build real-world learning systems that can analyze data, make decisions, and interact with users effectively.
 
+## News
+
+- 04/10/2025: Assignment 2 is online
+
 ## Course Topics
 - Linear Algebra and Statistics for Data Science
 - Optimization Techniques for Learning
@@ -58,7 +62,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 - [Lecture 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_1_Intro.pdf.zip)
 - [Lecture 2 - 4](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_2_MathCores.pdf.zip)
-- [Lecture 5](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_3_Optimization.pdf.zip)
+- [Lecture 5](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_3_Optimization_v2.pdf.zip)
+- [Lecture 6-7](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Part_4_MachineLearningIntro.pdf.zip)
 
 
 - Lecture+:
@@ -69,3 +74,4 @@ Practical Examples will serve as a capstone to the course, where students will e
 ### Assignments
 
 - [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_1_ILSDS_WS25.pdf.zip)
+- [Assignment 2](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_2_ILSDS_WS25.pdf.zip)
