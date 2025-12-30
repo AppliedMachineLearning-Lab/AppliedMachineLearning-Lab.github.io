@@ -24,6 +24,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 ## News
 
 - 04/10/2025: Assignment 2 is online
+- 30/12/2025: Assignment 3 is online
 
 ## Course Topics
 - Linear Algebra and Statistics for Data Science
@@ -75,3 +76,4 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 - [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_1_ILSDS_WS25.pdf.zip)
 - [Assignment 2](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_2_ILSDS_WS25.pdf.zip)
+- [Assignment 3](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/Assignment_3_ILSDS_WS25.pdf.zip)
