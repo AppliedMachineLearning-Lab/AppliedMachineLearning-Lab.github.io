@@ -18,8 +18,8 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 |               Lecture 9 | 14. Jan | Preditctive Data Mining II  |
 | Lecture 10/Assignment 3 | 21. Jan | Preditctive Data Mining III |
 |              Lecture 11 | 28. Jan | Recap                       |
-|                         | 11. Feb | Final Exam                  |
-|                         | TBA     | Final Exam (retake)         |
+| 13:00-15:00, room 0.109 | 11. Feb | Final Exam                  |
+| 13:00-15:00, room 0.109 | 18. Mar | Final Exam (retake)         |
 
 ## Lecure Notes
 - Lecture 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_01_MMDI_WS2025.zip)
@@ -29,7 +29,9 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 - Lecture 05: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_05_MMDI_WS2025.zip)
 - Lecture 06: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_06_MMDI_WS2025.zip)
 - Lecture 07: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_07_MMDI_WS2025.zip)
+- Lecture 08: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_08_MMDI_WS2025.zip)
 
 ## Assignments
 - Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/MMDI_Assignment_01.zip)
 - Assignment 02: [ZIP Download (corrected)](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/MMDI_Assignment_02.zip))
+- Assignment 03: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/MMDI_Assignment_03.zip))
