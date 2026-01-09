@@ -30,6 +30,7 @@ Lectures will take place every Wednesday at the B-IT (Friedrich-Hirzebruch-Allee
 - Lecture 06: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_06_MMDI_WS2025.zip)
 - Lecture 07: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_07_MMDI_WS2025.zip)
 - Lecture 08: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_08_MMDI_WS2025.zip)
+- Lecture 09: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/Lecture_09_MMDI_WS2025.zip)
 
 ## Assignments
 - Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS25/blob/main/MMDI_Assignment_01.zip)
