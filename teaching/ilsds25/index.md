@@ -52,7 +52,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 | Christmas           | 25.12.25   |                             |                          |                          |
 | New Year's Day           | 01.01.26   |                        |                          |                          |
 | Lecture 9  | 08.01.26   | Deep Learning                        |                          | Assignment 2 Discussion. |
-| Lecture 10 | 15.01.26   | Natural Language Understanding       | Medical Imaging & RL     |                          |
+| Lecture 10 | 15.01.26   | Natural Language Understanding       | Reinforcement Learning     |                          |
 | Lecture 11 | 22.01.26   | Natural Language Understanding       |                          | Assignment 3 Discussion  |
 | Lecture 12 | 29.01.26   | Misc, Recap                          |                          |                          |
 | Exam       | 05.02.26   |                                      |                          |                          |
