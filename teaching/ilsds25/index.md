@@ -71,6 +71,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 - Lecture+:
     - [Pytorch Lightning Introduction](https://lightning.ai/docs/pytorch/stable/levels/core_skills.html)
     - [Pytorch Introduction (Alternative)](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
+    - [Advanced Optimization](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Lecture_Plus_Advanced_Optimization.pdf.zip)
     - [Introduction to NLP](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Lecture_Plus_Introduction_to_NLP.pdf.zip)
     - [Reinforcement Learning](https://github.com/AppliedMachineLearning-Lab/ilsds/raw/refs/heads/main/ILSDS_WS25_Lecture_Plus_Reinforcement_Learning.pdf.zip)
 
