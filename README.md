@@ -10,6 +10,7 @@ Then:
 
 1. **Install dependencies**:
    ```bash
+   bundle config set --local path 'vendor/bundle'
    bundle install
    ```
 
