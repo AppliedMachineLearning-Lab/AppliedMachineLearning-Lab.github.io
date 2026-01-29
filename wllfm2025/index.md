@@ -121,6 +121,8 @@ and will be submitted for inclusion in the IEEEXplore Digital Library.
 - Dr. Linsey Pang (Salesforce, USA) 
 - Dr. Lorenz Sparrenberg (University of Bonn, Germany)
 
+This workshop has been partially funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence.
+
 ## Program Committee
 
 - Farizeh Aldabbas,	Fraunhofer IAIS, Germany  
