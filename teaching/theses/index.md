@@ -30,3 +30,16 @@ It is usually most effective to propose a topic that genuinely interests you, as
 If you find it challenging to come up with a topic of your own, don’t worry. Below is a list of suggested topics that may serve as inspiration or a starting point. You are welcome to directly use these ideas, combine or adept them, or use them to help formulate your own research question in your thesis at our lab. 
 
 ### List of Topics
+
+This list of topics is organized by the mentor that is offering to supervise the thesis. If you think on of these topics is of interest to you, contact she/him directly.
+
+#### Tobias Deußer
+- **Constrained Entity Decoding with Diffusion Models**
+    - Mandatory reading before contacting: *Large Language Diffusion Models* by Nie et al., *Informed Named Entity Recognition Decoding for Generative Language Models* by Deußer et al., *Diffusion-LM Improves Controllable Text Generation* by Li et al.
+- **Contradiction Detection in Long Documents**
+    - Mandatory reading before contacting: *Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models* by Deußer et al, *ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models* by Li et al.
+
+#### Svetlana Schmidt
+- **Data structuring frameworks for machine learning applications in nutritional data analysis.**
+- **Knowledge representation approaches for nutrients-ingredients relationship in food and nutrition data.**
+- **Design principles for standardized nutritional databases integrating processed foods and ingredients.**
