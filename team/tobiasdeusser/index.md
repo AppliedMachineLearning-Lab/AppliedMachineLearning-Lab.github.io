@@ -8,7 +8,7 @@ description: false
 
 I am a Postdoctoral Researcher at the Applied Machine Learning Lab at the University of Bonn. My work sits at the intersection of NLP and Machine Learning, with a focus on extracting structured knowledge from complex documents and developing autonomous agents for strategic environments.
 
-I hold a PhD in Computer Science from the University of Bonn, specializing in Information Extraction and Natural Language Processing. My doctoral research has extensively explored the application of transformer-based models to the financial domain, addressing challenges such as named entity recognition, contradiction detection, automated compliance verification, and sensitive data anonymization.
+I hold a PhD in Computer Science from the University of Bonn, specializing in Information Extraction and Natural Language Processing. My doctoral research has extensively explored the application and improvement of transformer-based models to various domains, addressing challenges such as named entity recognition, contradiction detection, automated compliance verification, and sensitive data anonymization.
 
 While I am not doing research, I am responsible for our website, server, and general IT related things. 
 
