@@ -12,11 +12,11 @@ Prof. Dr. Rafet Sifa
 
 ## Postdocs
 
-[Dr. Tobias Deußer](tobiasdeusser/), Dr. Corinna Schmalohr, Dr. Lorenz Sparrenberg
+[Dr. Tobias Deußer](tobiasdeusser/), Dr. Corinna Schmalohr, [Dr. Lorenz Sparrenberg](lorenzsparrenberg/)
 
 ## PhD Students
 
-Farizeh Aldabbas, Manuela Bergau, Armin Berger, Hossam Elsafty, Johannes Hübers, Priya Priya, Svetlana Schmidt
+Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Hossam Elsafty, Johannes Hübers, Priya Priya, Svetlana Schmidt
 
 ## Student Assistants
 
