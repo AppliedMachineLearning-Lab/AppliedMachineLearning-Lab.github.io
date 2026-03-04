@@ -31,7 +31,15 @@ If you find it challenging to come up with a topic of your own, don’t worry. B
 
 ### List of Topics
 
-This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact she/him directly.
+This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact she/him directly (see the [Team](/team/) page for contact details).
+
+#### Farizeh Aldabbas
+- **Multilingual and Cross-Lingual Fact-Checked Claim Retrieval**
+    - Develop a multilingual retrieval system that identifies relevant fact-checked claims for a given query claim. The project focuses on semantic similarity using multilingual embeddings and ranking methods, and analyzes how retrieval performance varies across languages.
+- **Multimodal Financial Claim Verification**
+    - Build a system that verifies financial claims using both textual and visual evidence. The project explores how text extracted from financial images (e.g., charts or screenshots) using OCR can be combined with claim text to improve automated financial fact-checking.
+- **Psycholinguistic Conspiracy Marker Detection**
+    - Investigate the detection of conspiracy-related narratives in online text by identifying psycholinguistic markers associated with conspiratorial discourse. The project focuses on developing classification models to detect such patterns and analyzing the linguistic signals of conspiracy rhetoric.
 
 #### Tobias Deußer
 - **Constrained Entity Decoding with Diffusion Models**
@@ -40,6 +48,6 @@ This list of topics is organized by the mentor that is offering to supervise the
     - Mandatory reading before contacting: *Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models* by Deußer et al, *ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models* by Li et al.
 
 #### Svetlana Schmidt
-- **Data structuring frameworks for machine learning applications in nutritional data analysis.**
-- **Knowledge representation approaches for nutrients-ingredients relationship in food and nutrition data.**
-- **Design principles for standardized nutritional databases integrating processed foods and ingredients.**
+
+- **Design and evaluation of a food and nutrition ontology for integrating food data sources.**
+- **Ontology-aware semantic retrieval for ingredient normalization in food product data.**
