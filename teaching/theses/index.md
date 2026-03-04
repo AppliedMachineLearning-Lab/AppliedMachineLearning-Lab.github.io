@@ -30,3 +30,24 @@ It is usually most effective to propose a topic that genuinely interests you, as
 If you find it challenging to come up with a topic of your own, don’t worry. Below is a list of suggested topics that may serve as inspiration or a starting point. You are welcome to directly use these ideas, combine or adept them, or use them to help formulate your own research question in your thesis at our lab. 
 
 ### List of Topics
+
+This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact she/him directly (see the [Team](/team/) page for contact details).
+
+#### Farizeh Aldabbas
+- **Multilingual and Cross-Lingual Fact-Checked Claim Retrieval**
+    - Develop a multilingual retrieval system that identifies relevant fact-checked claims for a given query claim. The project focuses on semantic similarity using multilingual embeddings and ranking methods, and analyzes how retrieval performance varies across languages.
+- **Multimodal Financial Claim Verification**
+    - Build a system that verifies financial claims using both textual and visual evidence. The project explores how text extracted from financial images (e.g., charts or screenshots) using OCR can be combined with claim text to improve automated financial fact-checking.
+- **Psycholinguistic Conspiracy Marker Detection**
+    - Investigate the detection of conspiracy-related narratives in online text by identifying psycholinguistic markers associated with conspiratorial discourse. The project focuses on developing classification models to detect such patterns and analyzing the linguistic signals of conspiracy rhetoric.
+
+#### Tobias Deußer
+- **Constrained Entity Decoding with Diffusion Models**
+    - Mandatory reading before contacting: *Large Language Diffusion Models* by Nie et al., *Informed Named Entity Recognition Decoding for Generative Language Models* by Deußer et al., *Diffusion-LM Improves Controllable Text Generation* by Li et al.
+- **Contradiction Detection in Long Documents**
+    - Mandatory reading before contacting: *Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models* by Deußer et al, *ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models* by Li et al.
+
+#### Svetlana Schmidt
+
+- **Design and evaluation of a food and nutrition ontology for integrating food data sources.**
+- **Ontology-aware semantic retrieval for ingredient normalization in food product data.**

@@ -5,3 +5,4 @@ plugins:
 - jekyll-remote-theme
 exclude:
   - README.md
+  - vendor
