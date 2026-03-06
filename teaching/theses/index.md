@@ -6,7 +6,22 @@ description: Your thesis at the AML Lab
 
 ## How to apply
 
-If you are interested in completing your bachelor’s or master’s thesis with our group, feel free to get in touch via `amllab[at]bit.uni-bonn.de` or contact the relevant researcher listed on our team webpage. Each researcher’s page includes their areas of interest. You can include your CV, transcript of records, and links to any relevant software projects you have worked on, if available.
+If you are interested in completing your bachelor’s or master’s thesis with our group, feel free to get in touch with your research proposal via `amllab[at]bit.uni-bonn.de` or contact the relevant researcher listed on our team webpage. Each researcher’s page includes their areas of interest. You can include your CV, transcript of records, and links to any relevant software projects you have worked on, if available.
+
+## Research Proposal
+
+Your research proposal is a central component of your application. It outlines the research question you aim to address and gives you the opportunity to demonstrate your expertise in the subject area, as well as the methodological approach you intend to take.
+
+We review proposals to assess how well your research interests align with those of our lab and its supervisors. If you are interested in working with a particular supervisor at our lab, please indicate this in your proposal.
+
+A strong proposal should:
+
+- Clearly state the research question you want to investigate.
+- Provide relevant background and context for your chosen area.
+- Explain the novelty and significance of your proposed research.
+- Describe the methods you plan to employ.
+
+Feel free to use this resource from the York St. John University for inspiration: [https://www.yorksj.ac.uk/study/postgraduate/research-degrees/apply/examples-of-research-proposals/](https://www.yorksj.ac.uk/study/postgraduate/research-degrees/apply/examples-of-research-proposals/)
 
 ## Procedure
 
