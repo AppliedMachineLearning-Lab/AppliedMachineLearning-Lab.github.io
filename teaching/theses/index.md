@@ -62,6 +62,12 @@ This list of topics is organized by the mentor that is offering to supervise the
 - **Contradiction Detection in Long Documents**
     - Mandatory reading before contacting: *Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models* by Deußer et al, *ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models* by Li et al.
 
+#### Hossam Elsafty
+
+- **Diacritization (Tashkeel) Generation and Downstream Arabic NLP Effects**
+- **MSA to Dialectal Arabic NLP tasks**
+- **Arabic Document Understanding and OCR**
+
 #### Svetlana Schmidt
 
 - **Design and evaluation of a food and nutrition ontology for integrating food data sources.**
