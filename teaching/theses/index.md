@@ -68,6 +68,13 @@ This list of topics is organized by the mentor that is offering to supervise the
 - **MSA to Dialectal Arabic NLP tasks**
 - **Arabic Document Understanding and OCR**
 
+#### Corinna Schmalohr
+
+- **Benchmarking Large Language Models for Clinical Documentation: Accuracy, Bias, and Safety in AI Medical Scribes**
+- **Design and Evaluation of AI-Assisted Clinical Decision Support Systems for Rare Disease Diagnosis**
+- **Robust Information Extraction from Noisy Clinical Documents: Combining OCR and Language Models**
+- **Hallucination Detection in Medical Large Language Models**
+
 #### Svetlana Schmidt
 
 - **Design and evaluation of a food and nutrition ontology for integrating food data sources.**
