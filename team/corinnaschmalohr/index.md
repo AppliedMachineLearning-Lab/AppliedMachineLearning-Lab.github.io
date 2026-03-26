@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Corinna Schmalohr
+title: Dr. Corinna Schmalohr
 description: false
 ---
 

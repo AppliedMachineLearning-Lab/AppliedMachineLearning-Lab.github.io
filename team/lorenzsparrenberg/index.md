@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lorenz Sparrenberg
+title: Dr. Lorenz Sparrenberg
 description: false
 ---
 
