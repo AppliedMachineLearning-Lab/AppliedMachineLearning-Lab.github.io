@@ -12,7 +12,7 @@ Prof. Dr. Rafet Sifa
 
 ## Postdocs
 
-[Dr. Tobias Deußer](tobiasdeusser/), Dr. Corinna Schmalohr, [Dr. Lorenz Sparrenberg](lorenzsparrenberg/)
+[Dr. Tobias Deußer](tobiasdeusser/), [Dr. Corinna Schmalohr](corinnaschmalohr/), [Dr. Lorenz Sparrenberg](lorenzsparrenberg/)
 
 ## PhD Students
 
