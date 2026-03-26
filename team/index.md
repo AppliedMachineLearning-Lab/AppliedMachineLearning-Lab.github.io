@@ -8,7 +8,7 @@ description: false
 
 ## Professor
 
-Prof. Dr. Rafet Sifa
+[Prof. Dr. Rafet Sifa](../rafetsifa/)
 
 ## Postdocs
 
