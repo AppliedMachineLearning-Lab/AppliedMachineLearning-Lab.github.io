@@ -5,7 +5,7 @@ description: Summer Semester 2026
 ---
 # Lab: Explainable AI
 
-In the lab “Explainable AI”, we encourage lab participants to find limitations of current explainable AI topics and explore novel solutions of these. Students are expected to work on their own topics, simulating how research works in practice and preparing them for their master thesis.
+In the lab "Explainable AI", we encourage lab participants to find limitations of current explainable AI topics and explore novel solutions of these. Students are expected to work on their own topics, simulating how research works in practice and preparing them for their master thesis.
 
 To be considered for the lab, we ask you to submit a short proposal (maximum half a page) describing the project you would like to work on to `amllab[at]bit.uni-bonn.de`. Please make sure your proposal addresses the following points:
 
