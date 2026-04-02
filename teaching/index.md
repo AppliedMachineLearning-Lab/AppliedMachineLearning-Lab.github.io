@@ -67,7 +67,7 @@ This course explores advanced techniques in data mining, emphasizing predictive 
 
 # Lab: Explainable AI
 
-See [here](./xai26/) for the current iteration of this course.
+See [here](./xai26/) for the current iteration of this lab.
 
 In the lab “Explainable AI”, we encourage lab participants to find limitations of current explainable AI topics and explore novel solutions of these. Students are expected to work on their own topics, simulating how research works in practice and preparing them for their master thesis.
 
@@ -107,6 +107,8 @@ This seminar focuses on the theoretical underpinnings of deep neural networks, p
 ---
 
 # Seminar: Data Science for Medical Applications
+
+See [here](./dsma26/) for the current iteration of this seminar.
 
 In this seminar, current, relevant research progress in the field of data science in the analysis of medical data is reviewed and presented by the students.
 
