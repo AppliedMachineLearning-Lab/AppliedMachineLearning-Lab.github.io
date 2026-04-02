@@ -6,8 +6,6 @@ description: An overview of teaching activities of the AML-Lab
 
 # Course: Introduction to Learning Systems and Data Science
 
-See [here](./ilsds25/) for the current iteration of this course.
-
 This course, part of the curriculum for aspiring data scientists and AI practitioners, offers a foundational understanding of key concepts and methodologies in learning systems and data science. The primary focus is on learning systems, their architectures, and how they can be effectively designed and implemented to solve complex problems.
 
 Students will begin with **Linear Algebra and Statistics for Data Science**, which are crucial for understanding data structures and algorithms used in learning systems. This mathematical foundation will support later explorations into model evaluation and performance assessment.
@@ -41,8 +39,6 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 # Course: Mining Media Data I
 
-See [here](./mmdi25/) for the current iteration of this course.
-
 This course, offered as part of the Master's Program in Media Informatics at the Bonn-Aachen International Center for Information Technology (B-IT), provides a comprehensive exploration of advanced data mining techniques tailored for media data analysis. Students will delve into methods like affinity mining, latent pattern mining, neural networks, and archetypal analysis to uncover insights in behavioral profiling, recommender systems, and outlier detection. Emphasis is placed on theoretical understanding and practical application through mathematical optimization, interpretable models, and real-world case studies, enabling participants to harness data for impactful digital marketing, fraud detection, and content personalization.
 
 ## Course Topics
@@ -56,6 +52,8 @@ This course, offered as part of the Master's Program in Media Informatics at the
 
 # Course: Mining Media Data II
 
+See [here](./mmdii26/) for the current iteration of this course.
+
 This course explores advanced techniques in data mining, emphasizing predictive and prescriptive methods applied to media data. Students will learn to analyze large and complex datasets using state-of-the-art machine learning methodologies, including behavioral prediction, knowledge distillation, and large language models (LLMs). The curriculum includes foundational concepts, text representation learning, transformer architectures, and practical applications in media analytics, such as recommendation systems and information extraction.
 
 ## Course Topics
@@ -65,18 +63,20 @@ This course explores advanced techniques in data mining, emphasizing predictive 
 - Analyze media data effectively to derive insights and support decision-making in real-world applications, including digital marketing and fraud detection.
 - Address challenges in media analytics, such as ethical considerations, model interpretability, and efficient resource use.
 
+---
 
-# Lab: Explainable AI and Applications
+# Lab: Explainable AI
 
-In this lab “Explainable AI and Applications -- Explainability of foundation models for sequential data”, we will start with the reproduction of existing explainability of deep-learning systems (especially foundation models) in the fields of biomedicine and natural language processing. Then, we will encourage lab participants to find limitations and explore novel solutions with experiments. The students will work in groups on a selected task.
+See [here](./xai26/) for the current iteration of this lab.
+
+In the lab “Explainable AI”, we encourage lab participants to find limitations of current explainable AI topics and explore novel solutions of these. Students are expected to work on their own topics, simulating how research works in practice and preparing them for their master thesis.
 
 ## Lab Activities
-- **Understanding the Landscape:** Initiating the course with a comprehensive survey of explainable AI.
-- **Reproducing Key Findings:** Students will select research papers to reproduce significant findings.
+- **Choose-your-own-research:** Students will choose their own research topic and develop it on their own.
 - **Midterm Milestone:** A mid-term presentation to share progress, challenges, and insights.
-- **Forging New Paths:** Groups develop new ideas, benchmarks, datasets, or methodologies.
-- **Showcasing Innovations:** Teams present their original contributions.
-- **Reflecting and Reporting:** The course concludes with a reflection and reporting phase.
+- **Showcasing Innovations:** Each student presents their original contributions in a final presentation (graded).
+- **Report:** The lab concludes with writing a lab report (graded).
+- **Publication opportunity:** If the lab report is of extraordinary quality, we will try to get it published with the student as the first author.
 
 
 ---
@@ -107,6 +107,8 @@ This seminar focuses on the theoretical underpinnings of deep neural networks, p
 ---
 
 # Seminar: Data Science for Medical Applications
+
+See [here](./dsma26/) for the current iteration of this seminar.
 
 In this seminar, current, relevant research progress in the field of data science in the analysis of medical data is reviewed and presented by the students.
 
