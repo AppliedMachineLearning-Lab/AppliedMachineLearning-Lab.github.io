@@ -59,8 +59,8 @@ This list of topics is organized by the mentor that is offering to supervise the
 #### Tobias Deußer
 - **Constrained Entity Decoding with Diffusion Models**
     - Mandatory reading before contacting: *Large Language Diffusion Models* by Nie et al., *Informed Named Entity Recognition Decoding for Generative Language Models* by Deußer et al., *Diffusion-LM Improves Controllable Text Generation* by Li et al.
-- **Contradiction Detection in Long Documents**
-    - Mandatory reading before contacting: *Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models* by Deußer et al, *ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models* by Li et al.
+- **Cultural and Contextual Dimensions in Pseudoanonymisation**
+    - Mandatory reading before contacting: *Resource-Efficient Anonymization of Textual Data via Knowledge Distillation from Large Language Models* by Deußer et al.
 
 #### Hossam Elsafty
 
