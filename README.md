@@ -32,7 +32,7 @@ layout: post
 title: "Your Post Title"
 date: YYYY-MM-DD
 author: Your Name
-categories: [News]
+categories: [A list of categories]
 description: false
 ---
 
