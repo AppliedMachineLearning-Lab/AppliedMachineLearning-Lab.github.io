@@ -26,6 +26,6 @@ Details about our courses are vailable [here](./teaching/).
 - ["_From Theory to Practice: Workshop on Large Language and Foundation Models_" at Bigdata 2025 ](./wllfm2025/)
 - ["_From Theory to Practice: Special Session on Large Language and Foundation Models_" at DSAA 2025 ](./ssllfm2025/) -->
 
-## News
+## Latest Updates
 
 - At last years IEEE BigData (2025) conference, the AML Lab had 9 papers accepted and presented. A few days ago, they were added to the IEEE Xplore repository. Follow [this link](https://ieeexplore.ieee.org/xpl/conhome/11400704/proceeding?sortType=vol-only-seq&isnumber=11400712&refinements=Author:Rafet%20Sifa) to access them. We will report more on them in upcoming blog posts. 

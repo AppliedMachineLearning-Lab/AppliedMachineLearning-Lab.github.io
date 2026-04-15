@@ -3,6 +3,10 @@ description: The web page of the AML Lab @ Uni Bonn.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-paginate
+paginate: 5
+paginate_path: "/news/page:num/"
+permalink: /news-entry/:year-:month-:day-:title/
 exclude:
   - README.md
   - vendor

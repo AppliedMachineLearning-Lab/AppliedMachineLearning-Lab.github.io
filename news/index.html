@@ -1,0 +1,50 @@
+---
+layout: default
+title: News
+description: Insights and Updates from the AML Lab
+---
+
+<div class="news-list">
+  {% for post in paginator.posts %}
+  <article class="post-card">
+    <h2 class="post-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      {% if post.author %} &middot; {{ post.author }}{% endif %}
+      {% if post.categories.size > 0 %}
+        &middot; {% for cat in post.categories %}<span class="post-tag">{{ cat }}</span>{% unless forloop.last %} {% endunless %}{% endfor %}
+      {% endif %}
+    </div>
+    <div class="post-excerpt">
+      {{ post.excerpt | strip_html | truncatewords: 60 }}
+    </div>
+    <a href="{{ post.url | relative_url }}" class="read-more-link">Read more &rarr;</a>
+  </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="news-pagination" aria-label="News pages">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-btn">&laquo; Newer</a>
+  {% else %}
+    <span class="pagination-btn disabled">&laquo; Newer</span>
+  {% endif %}
+
+  {% for page_num in (1..paginator.total_pages) %}
+    {% if page_num == paginator.page %}
+      <span class="pagination-btn current">{{ page_num }}</span>
+    {% elsif page_num == 1 %}
+      <a href="{{ '/news/' | relative_url }}" class="pagination-btn">{{ page_num }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page_num }}" class="pagination-btn">{{ page_num }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-btn">Older &raquo;</a>
+  {% else %}
+    <span class="pagination-btn disabled">Older &raquo;</span>
+  {% endif %}
+</nav>
+{% endif %}

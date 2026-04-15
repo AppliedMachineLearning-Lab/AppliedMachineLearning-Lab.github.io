@@ -136,6 +136,153 @@ $section-headings-color: #005baa;
   }
 }
 
+/* News / Blog Styles */
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.post-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 1.5rem 2rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s ease;
+}
+
+.post-card:hover {
+  box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+}
+
+.post-card-title {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.4rem;
+}
+
+.post-card-title a {
+  color: #005baa;
+  text-decoration: none;
+  border: none;
+}
+
+.post-card-title a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.8rem;
+}
+
+.post-tag {
+  display: inline-block;
+  background: #e8f0fb;
+  color: #005baa;
+  border-radius: 3px;
+  padding: 0.1em 0.5em;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.post-excerpt {
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.read-more-link {
+  color: #005baa;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+}
+
+.read-more-link:hover {
+  text-decoration: underline;
+}
+
+/* News pagination */
+.news-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.pagination-btn {
+  display: inline-block;
+  padding: 0.4rem 0.85rem;
+  border: 1px solid #005baa;
+  border-radius: 4px;
+  color: #005baa;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.15s, color 0.15s;
+}
+
+.pagination-btn:hover {
+  background: #005baa;
+  color: #fff;
+  text-decoration: none;
+  border-color: #005baa;
+}
+
+.pagination-btn.current {
+  background: #005baa;
+  color: #fff;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.pagination-btn.disabled {
+  color: #aaa;
+  border-color: #ddd;
+  pointer-events: none;
+  cursor: default;
+}
+
+/* Individual post */
+.post {
+  max-width: 780px;
+}
+
+.post-header {
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 1rem;
+}
+
+.post-title {
+  margin-bottom: 0.4rem;
+}
+
+.post-content {
+  line-height: 1.7;
+}
+
+.post-footer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.back-to-news {
+  color: #005baa;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+}
+
+.back-to-news:hover {
+  text-decoration: underline;
+}
+
 /* Very small screens */
 @media screen and (max-width: 480px) {
   .nav-container {
