@@ -46,7 +46,7 @@ If you find it challenging to come up with a topic of your own, don’t worry. B
 
 ### List of Topics
 
-This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact she/him directly (see the [Team](/team/) page for contact details).
+This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact her/him directly (see the [Team](/team/) page for contact details).
 
 #### Farizeh Aldabbas
 - **Multilingual and Cross-Lingual Fact-Checked Claim Retrieval**
