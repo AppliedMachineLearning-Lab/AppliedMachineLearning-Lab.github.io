@@ -6,6 +6,8 @@ description: false
 
 ## About me
 
+![Dr. Lorenz Sparrenberg](/assets/lorenz.jpeg){: style="float: right; margin: 0 0 1em 1em; max-width: 250px; border-radius: 4px;"}
+
 I am a Data Science Freelancer and Postdoctoral Researcher at the University of Bonn, working at the intersection of statistical machine learning and large language models (LLMs). My research spans efficient model deployment, robust machine learning for domain-specific tasks, and practical data analytic workflows. I bring experience from both academic research and industry collaborations, supporting data-driven decision-making in complex environments through principled model design and evaluation.
 
 I obtained my doctorate in natural sciences (Dr. rer nat.) from RWTH Aachen University, where my work focused on quantitative analysis methods and data-driven modeling. Prior to my current academic appointment, I have collaborated on projects involving automated data processing, visualization, and machine learning system design for scientific and industrial applications. Alongside my research role, I work as an independent data science consultant supporting interdisciplinary teams in extracting meaningful insights from complex datasets.

@@ -6,6 +6,8 @@ description: false
 
 ## About me
 
+![Dr. Tobias Deußer](/assets/tobi.jpg){: style="float: right; margin: 0 0 1em 1em; max-width: 250px; border-radius: 4px;"}
+
 I am a Postdoctoral Researcher at the Applied Machine Learning Lab at the University of Bonn. My work sits at the intersection of NLP and Machine Learning, with a focus on extracting structured knowledge from complex documents and developing autonomous agents for strategic environments.
 
 I hold a PhD in Computer Science from the University of Bonn, specializing in Information Extraction and Natural Language Processing. My doctoral research has extensively explored the application and improvement of transformer-based models to various domains, addressing challenges such as named entity recognition, contradiction detection, automated compliance verification, and sensitive data anonymization.
