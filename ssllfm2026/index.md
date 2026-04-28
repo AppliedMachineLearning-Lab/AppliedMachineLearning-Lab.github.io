@@ -9,7 +9,7 @@ description: Co-located with DSAA 2026
 
 **Location**: Pride Plaza Hotel, Aerocity, New Delhi, India  
 **Conference**: [DSAA 2026](https://dsaa2026.dsaa.co/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 6–9, 2026 (special session slot — *to be announced*)
+**Date**: October 6-9, 2026 (special session slot: TBA)
 
 Foundation models and large language systems have become indispensable technologies in data science and analysis,
 opening up powerful possibilities in the areas of text generation, knowledge extraction, and complex decision-making.
@@ -19,8 +19,10 @@ insights. By focusing on both technology and practical challenges, the session p
 drives research momentum, and identifies effective approaches for embedding large language models in data-driven
 applications across various fields.
 
-- Important dates (submission, notification, camera-ready): see the **[DSAA 2026](https://dsaa2026.dsaa.co/)** website.
-- Contact: `amllab[at]bit.uni-bonn.de`
+- Submission deadline: **May 30, 2026**
+- Paper notification: **August 10, 2026**
+- Camera-ready: **August 30, 2026**
+- Contact: `amllab@bit.uni-bonn.de`
 
 ## Aims and Scope
 
@@ -33,15 +35,15 @@ This special session examines the deployment of large language and foundation mo
 
 ## Agenda
 
-*Program for SSLLFM 2026 will be announced closer to the conference.*
+*Program for SSLLFM 2026: TBA.*
 
 | Time | Paper / Speaker | Presenter |
 |------|-----------------|-----------|
-| TBA  | To be announced | —         |
+| TBA  | TBA             | TBA       |
 
 ## Keynotes
 
-*Keynotes for SSLLFM 2026 will be announced later.*
+*Keynotes for SSLLFM 2026: TBA.*
 
 ## Submission
 
@@ -117,10 +119,10 @@ its Special Session scheme. All papers will be submitted for inclusion in the IE
 
 ## Previous Editions
 
-- **[SSLLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)** — Special Session at IEEE DSAA 2025, Birmingham, UK. 35 submissions, 8 accepted papers, 60+ participants.
-- **[WLLFM 2025](https://appliedmachinelearning-lab.github.io/wllfm2025/)** — Workshop at IEEE BigData 2025, Macau SAR, China. 29 submissions, 5 accepted papers, 50+ participants.
-- **[WLLFM 2024](https://sites.google.com/view/wllfm24)** — Workshop at IEEE BigData 2024, Washington DC, USA. 55 submissions, 19 accepted papers, 100+ participants.
-- **[WLLFM 2023](https://dhavalrepo18.github.io/bigdatafm/)** — Workshop at IEEE BigData 2023, Sorrento, Italy. 31 submissions, 11 accepted papers, 50+ participants.
+- **[SSLLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)** (Special Session at IEEE DSAA 2025, Birmingham, UK. 35 submissions, 8 accepted papers, 60+ participants.)
+- **[WLLFM 2025](https://appliedmachinelearning-lab.github.io/wllfm2025/)** (Workshop at IEEE BigData 2025, Macau SAR, China. 29 submissions, 5 accepted papers, 50+ participants.)
+- **[WLLFM 2024](https://sites.google.com/view/wllfm24)** (Workshop at IEEE BigData 2024, Washington DC, USA. 55 submissions, 19 accepted papers, 100+ participants.)
+- **[WLLFM 2023](https://dhavalrepo18.github.io/bigdatafm/)** (Workshop at IEEE BigData 2023, Sorrento, Italy. 31 submissions, 11 accepted papers, 50+ participants.)
 
 ## Organizers
 
@@ -165,32 +167,32 @@ recent publications focus on semantic segmentation for robot-assisted abdominal 
 
 ## Program Committee
 
-- Lucie Flek — *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
-- Christian Bauckhage — *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
-- Ozlem Uzuner — *George Mason University*, USA
-- Lorenz Sparrenberg — *University of Bonn*, Germany
-- Priya Priya — *University of Bonn*, Germany
-- Tobias Deußer — *University of Bonn*, Germany
-- Armin Berger — *University of Bonn*, Germany
-- Manuela Bergau — *Fraunhofer IAIS*, Germany
-- Farizeh Aldabbas — *Fraunhofer IAIS*, Germany
-- Johannes Radu Hübers — *Fraunhofer IAIS*, Germany
-- Aashish Jain — *Salesforce*, USA
-- Zian Wang — *Stony Brook University*, USA
-- Qiushui Xu — *Penn State University*, USA
-- Qikai Yang — *University of Illinois Urbana-Champaign*, USA
-- Zheng Liu — *Northeastern University*, USA
-- Tingting Tang — *University of Southern California*, USA
-- Bo Yuan — *Georgia Institute of Technology*, USA
-- Yunzhe Wang — *University of Southern California*, USA
-- Yong Liu — *Salesforce*, USA
-- Mounika Kamsali Veera — *Walmart*, USA
-- Lisa Pucknat — *AXA*, Germany
-- Pengfei Li — *Visa Research*, USA
-- Surya Lakshmi Sujitha Pasumarty — *Albertsons*, USA
-- Yingfan Wang — *Duke University*, USA
-- Tian Long Xu — *Squirrel AI Learning*, USA
-- Hao Yan — *George Mason University*, USA
-- Mingxuan Yang — *Brown University*, USA
-- Dezhi Yu — *University of California, Berkeley*, USA
-- Haodong Zhang — *New York University*, USA
+- Lucie Flek, *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
+- Christian Bauckhage, *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
+- Ozlem Uzuner, *George Mason University*, USA
+- Lorenz Sparrenberg, *University of Bonn*, Germany
+- Priya Priya, *University of Bonn*, Germany
+- Tobias Deußer, *University of Bonn*, Germany
+- Armin Berger, *University of Bonn*, Germany
+- Manuela Bergau, *Fraunhofer IAIS*, Germany
+- Farizeh Aldabbas, *Fraunhofer IAIS*, Germany
+- Johannes Radu Hübers, *Fraunhofer IAIS*, Germany
+- Aashish Jain, *Salesforce*, USA
+- Zian Wang, *Stony Brook University*, USA
+- Qiushui Xu, *Penn State University*, USA
+- Qikai Yang, *University of Illinois Urbana-Champaign*, USA
+- Zheng Liu, *Northeastern University*, USA
+- Tingting Tang, *University of Southern California*, USA
+- Bo Yuan, *Georgia Institute of Technology*, USA
+- Yunzhe Wang, *University of Southern California*, USA
+- Yong Liu, *Salesforce*, USA
+- Mounika Kamsali Veera, *Walmart*, USA
+- Lisa Pucknat, *AXA*, Germany
+- Pengfei Li, *Visa Research*, USA
+- Surya Lakshmi Sujitha Pasumarty, *Albertsons*, USA
+- Yingfan Wang, *Duke University*, USA
+- Tian Long Xu, *Squirrel AI Learning*, USA
+- Hao Yan, *George Mason University*, USA
+- Mingxuan Yang, *Brown University*, USA
+- Dezhi Yu, *University of California, Berkeley*, USA
+- Haodong Zhang, *New York University*, USA
