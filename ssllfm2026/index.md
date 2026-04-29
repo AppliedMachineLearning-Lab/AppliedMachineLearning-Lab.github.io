@@ -7,6 +7,8 @@ description: Co-located with DSAA 2026
 
 # From Theory to Practice: Special Session on Large Language and Foundation Models
 
+![SSLLFM 2026 banner](/assets/ssllfm2026-banner.png)
+
 **Location**: Pride Plaza Hotel, Aerocity, New Delhi, India  
 **Conference**: [DSAA 2026](https://dsaa2026.dsaa.co/) (IEEE International Conference on Data Science and Advanced Analytics)  
 **Date**: October 6-9, 2026 (special session slot: TBA)
