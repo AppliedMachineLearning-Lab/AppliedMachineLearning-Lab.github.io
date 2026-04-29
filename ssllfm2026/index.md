@@ -49,7 +49,7 @@ This special session examines the deployment of large language and foundation mo
 
 ## Submission
 
-To submit a paper to SSLLFM2026, go to [OpenReview (IEEE DSAA 2026 Conference)](https://openreview.net/group?id=IEEE.org/DSAA/2026/Conference),
+To submit a paper to SSLLFM2026, go to [OpenReview (IEEE DSAA 2026 Conference)](https://openreview.net/group?id=IEEE.org/DSAA/2026/Special_Sessions),
 and select the "Special Session: From Theory to Practice: Special Session on Large Language and Foundation Models"
 track when it is available.
 
@@ -131,7 +131,7 @@ its Special Session scheme. All papers will be submitted for inclusion in the IE
 **Prof. Dr. Rafet Sifa** *(Contact Person)*  
 University of Bonn, Germany · `rafet.sifa@bit.uni-bonn.de`  
 Prof. Dr. Rafet Sifa is a leading researcher in AI and machine learning, with over 15 years of experience and a
-regular contributor to the IEEE DSAA conference. His research focuses on hybrid deep learning and large-scale
+regular contributor to top-tier machine learning conferences. His research focuses on hybrid deep learning and large-scale
 analytics, with extensive publications on both theoretical and applied machine learning topics with a deep focus on
 representation learning. He co-organized the special session on Informed and Explainable Methods for Machine Learning
 at ICANN 2019, the three workshops on foundational and large language models at IEEE BigData (2023, 2024, 2025), a
@@ -160,7 +160,7 @@ His recent work includes research on efficient inference of LLMs and empirical s
 settings, as well as publications on representative learning for clinical and decision support applications including
 dementia detection and diabetic retinopathy.
 
-**Priya Priya**  
+**Priya Tomar**  
 University of Bonn, Germany · `ppriya@uni-bonn.de`  
 Priya is a data scientist at Fraunhofer IAIS and a PhD candidate at the University of Bonn focusing on deep
 learning-based medical image analysis, in particular Surgical AI. Her work addresses domain-specific challenges in the
@@ -173,7 +173,7 @@ recent publications focus on semantic segmentation for robot-assisted abdominal 
 - Christian Bauckhage, *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
 - Ozlem Uzuner, *George Mason University*, USA
 - Lorenz Sparrenberg, *University of Bonn*, Germany
-- Priya Priya, *University of Bonn*, Germany
+
 - Tobias Deußer, *University of Bonn*, Germany
 - Armin Berger, *University of Bonn*, Germany
 - Manuela Bergau, *Fraunhofer IAIS*, Germany
