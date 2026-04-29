@@ -49,10 +49,8 @@ If you find it challenging to come up with a topic of your own, don’t worry. B
 This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact her/him directly (see the [Team](/team/) page for contact details).
 
 #### Farizeh Aldabbas
-- **Multilingual and Cross-Lingual Fact-Checked Claim Retrieval**
-    - Develop a multilingual retrieval system that identifies relevant fact-checked claims for a given query claim. The project focuses on semantic similarity using multilingual embeddings and ranking methods, and analyzes how retrieval performance varies across languages.
-- **Multimodal Financial Claim Verification**
-    - Build a system that verifies financial claims using both textual and visual evidence. The project explores how text extracted from financial images (e.g., charts or screenshots) using OCR can be combined with claim text to improve automated financial fact-checking.
+- **Domain-Specific OCR for Financial Documents**
+    - Investigate OCR performance on financial documents such as scanned reports, invoices, handwritten notes, and digital screenshots. The project focuses on improving text recognition accuracy in finance-specific content, including tables, numerical values, currencies, multilingual text, and low-quality document images.
 - **Psycholinguistic Conspiracy Marker Detection**
     - Investigate the detection of conspiracy-related narratives in online text by identifying psycholinguistic markers associated with conspiratorial discourse. The project focuses on developing classification models to detect such patterns and analyzing the linguistic signals of conspiracy rhetoric.
 
