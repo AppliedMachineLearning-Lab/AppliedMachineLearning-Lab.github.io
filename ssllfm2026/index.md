@@ -11,7 +11,7 @@ description: Co-located with DSAA 2026
 
 **Location**: Pride Plaza Hotel, Aerocity, New Delhi, India  
 **Conference**: [DSAA 2026](https://dsaa2026.dsaa.co/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 6-9, 2026 (special session slot: TBA)
+**Date**: October 6–9, 2026 (special session slot: TBA)
 
 Foundation models and large language systems have become indispensable technologies in data science and analysis,
 opening up powerful possibilities in the areas of text generation, knowledge extraction, and complex decision-making.
@@ -88,7 +88,7 @@ The topics of interest are, but not limited to:
   - Strategies to scale resources for training/fine-tuning foundational models
   - Instruction tuning including generation of instruction tuning data
   - Parallel training: data model tensor (attention and weights)
-  - Distributed workflows for data cleansing and model usage (Langchain)
+  - Distributed workflows for data cleansing and model usage (LangChain)
   - Principled AI
   - Investigating reasoning capabilities of LLMs
   - Retrieval Augmented Generation
@@ -153,6 +153,13 @@ bridges fundamental research and real-world deployment, focusing on scalable mac
 co-organized the previous workshops on foundational and large language models at IEEE BigData as well as the special
 session at DSAA 2025.
 
+**Dr. Linsey Pang**  
+PayPal Inc., USA · `panglinsey@gmail.com`  
+Linsey Pang is a Distinguished Scientist at PayPal. Previously she was a Principal Machine Learning Scientist at Salesforce.
+Prior to this, she was a Principal Data Scientist at Walmart Lab. Prior to joining Walmart Lab, she worked as an applied
+scientist at eBay Inc. She finished her PhD degree in machine learning research at the University of Sydney. She
+co-organizes multiple workshops and tutorials at CIKM, KDD, and WSDM in top data mining conferences.
+
 **Dr. Lorenz Sparrenberg**  
 University of Bonn, Germany · `lsparren@uni-bonn.de`  
 Dr. Lorenz Sparrenberg's research focuses on large language models and their evaluation, robustness, and limitations.
@@ -172,8 +179,6 @@ recent publications focus on semantic segmentation for robot-assisted abdominal 
 - Lucie Flek, *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
 - Christian Bauckhage, *Lamarr Institute for Artificial Intelligence and Machine Learning*, Germany
 - Ozlem Uzuner, *George Mason University*, USA
-- Lorenz Sparrenberg, *University of Bonn*, Germany
-
 - Tobias Deußer, *University of Bonn*, Germany
 - Armin Berger, *University of Bonn*, Germany
 - Manuela Bergau, *Fraunhofer IAIS*, Germany
