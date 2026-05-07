@@ -33,6 +33,7 @@ This course, offered as part of the *Master's Program in Human Centered Intellig
 
 ## Lecure Notes
 - Lecture 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_01_CourseIntro.zip)
+- Lecture 02: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_02_CED.zip)
 
 
 
