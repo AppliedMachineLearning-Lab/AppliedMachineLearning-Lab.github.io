@@ -16,7 +16,7 @@ description: false
 
 ## PhD Students
 
-Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Hossam Elsafty, Johannes Hübers, Priya Priya, Svetlana Schmidt
+Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Hossam Elsafty, Priya Priya, Shahzeb Qamar, Svetlana Schmidt
 
 ## Student Assistants
 
