@@ -7,9 +7,7 @@ categories: [Research]
 description: false
 ---
 
-This is a short summary of our paper **"Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients"** by *Armin Berger, Manuela Bergau, Helen Schneider, Saad Ahmad, Tom Anglim Lagones, Gianluca Brugnara, Martha Foltyn-Dumitru, Kai Schlamp, Philipp Vollmuth, and Rafet Sifa*, available on [arXiv](https://arxiv.org/abs/2512.23090) and to be published in the Proceedings of IJCNN 2026.
-
-*TL;DR: RL fine-tuning made the model better at the benchmark and worse at the job and the same thing happens at 50× the budget, so the problem is the recipe, not the resources.*
+This is a TL;DR of our paper **"Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients"** by *Armin Berger, Manuela Bergau, Helen Schneider, Saad Ahmad, Tom Anglim Lagones, Gianluca Brugnara, Martha Foltyn-Dumitru, Kai Schlamp, Philipp Vollmuth, and Rafet Sifa*, available on [arXiv](https://arxiv.org/abs/2512.23090) and to be published in the Proceedings of IJCNN 2026.
 
 Reinforcement learning has been the headline story for LLMs lately: DeepSeek-R1 and friends have shown you can squeeze impressive reasoning out of a model with the right reward signal. A natural next question: does this work for medical imaging too, especially on a tight budget? Our team from Fraunhofer IAIS, the University of Bonn, the Lamarr Institute, University Hospital Bonn, and Queensland Health set out to find out, and the answer turns out to be more complicated than the leaderboards suggest.
 
@@ -52,4 +50,8 @@ Practical takeaway: structured reasoning prompts compensate for missing domain k
 For anyone deploying small medical VLMs in the real world, this is a useful warning. Benchmark-driven RL fine-tuning may produce numbers that look great in a paper but degrade exactly the property you most need clinically, robustness across hospitals, scanners, and labeling conventions. Under tight resource constraints, carefully curated SFT may actually outperform aggressive RL for clinical deployment.
 
 That doesn't mean RL is doomed for medical imaging, but it does mean "improved benchmark score" and "better diagnostic model" aren't the same thing, and we probably need reward formulations, multi-dataset curricula, or architectural changes that explicitly target generalization rather than single-benchmark wins.
+
+## The one-line summary
+
+*TL;DR: RL fine-tuning made the model better at the benchmark and worse at the job and the same thing happens at 50× the budget, so the problem is the recipe, not the resources.*
 
