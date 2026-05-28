@@ -28,4 +28,22 @@ Details about our courses are vailable [here](./teaching/).
 
 ## Latest Updates
 
-- At last years IEEE BigData (2025) conference, the AML Lab had 9 papers accepted and presented. A few days ago, they were added to the IEEE Xplore repository. Follow [this link](https://ieeexplore.ieee.org/xpl/conhome/11400704/proceeding?sortType=vol-only-seq&isnumber=11400712&refinements=Author:Rafet%20Sifa) to access them. We will report more on them in upcoming blog posts. 
+{% assign latest = site.posts.first %}
+{% if latest %}
+<article class="post-card">
+  <h2 class="post-card-title"><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h2>
+  <div class="post-meta">
+    <time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>
+    {% if latest.author %} &middot; {{ latest.author }}{% endif %}
+    {% if latest.categories.size > 0 %}
+      &middot; {% for cat in latest.categories %}<span class="post-tag">{{ cat }}</span>{% unless forloop.last %} {% endunless %}{% endfor %}
+    {% endif %}
+  </div>
+  <div class="post-excerpt">
+    {{ latest.excerpt | strip_html | truncatewords: 60 }}
+  </div>
+  <a href="{{ latest.url | relative_url }}" class="read-more-link">Read more &rarr;</a>
+</article>
+{% endif %}
+
+[Find more news here...](/news/)
