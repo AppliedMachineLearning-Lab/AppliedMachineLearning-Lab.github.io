@@ -16,19 +16,20 @@ This course, offered as part of the *Master's Program in Human Centered Intellig
 * Tackle key challenges in media analytics, including ethical issues, model interpretability, and efficient use of computational resources.
 
 
-| Lecture    | Date      | Lecture Content                                                                      |
-| -----------:| -----------| --------------------------------------------------------------------------------------|
-| Lecture 1  | 30.4.2026 | Course Intro                                                                         |
-| Lecture 2  | 7.5.2026  | Data Mining Applications 1                                                           |
-| Lecture 3  | 21.5.2026 | Data Mining Applications 2                                                           |
-| Lecture 4  | 11.6.2026 | Representation Learning with Transformers 1: Intro and Training                      |
-| Lecture 5  | 18.6.2026 | Representation Learning with Transformers 2: Textual Embeddings                      |
-| Lecture 6  | 18.6.2026 | Representation Learning with Transformers 3: Text mining and NLP                     |
-| Lecture 7  | 25.6.2026 | Representation Learning with Transformers 4: Multimodality                           |
-| Lecture 8  | 25.6.2026 | Representation Learning with Transformers 5: Big Data Engineering in the age of LLMs |
-| Lecture 9  | 9.7.2026  | RL and LLMs 1                                                                        |
-| Lecture 10 | 16.7.2026 | RL and LLMs 2                                                                        |
-| Lecture 11 | 23.7.2026 | Information Extraction and Practical Applications                                    |
+| Lecture    | Date      | Time  | Lecture Content                                                                      |
+| -----------:| -----------| -------| --------------------------------------------------------------------------------------|
+| Lecture 1  | 30.4.2026 | 14:00 | Course Intro                                                                         |
+| Lecture 2  | 7.5.2026  | 14:00 | Data Mining Applications 1                                                           |
+| Lecture 3  | 21.5.2026 | 14:00 | Data Mining Applications 2                                                           |
+| Lecture 4  | 11.6.2026 | 14:00 | Representation Learning with Transformers 1: Intro and Training                      |
+| Lecture 5  | 18.6.2026 | 12:15 | Representation Learning with Transformers 2: Textual Embeddings                      |
+| Lecture 6  | 18.6.2026 | 14:00 | Representation Learning with Transformers 3: Text mining and NLP                     |
+| Lecture 7  | 25.6.2026 | 12:15 | Representation Learning with Transformers 4: Multimodality                           |
+| Lecture 8  | 25.6.2026 | 14:00 | Representation Learning with Transformers 5: Big Data Engineering in the age of LLMs |
+| Poster Day | 2.7.2026  | 13:00–15:00 | Poster Day (no lecture)                                                        |
+| Lecture 9  | 9.7.2026  | 14:00 | RL and LLMs 1                                                                        |
+| Lecture 10 | 16.7.2026 | 14:00 | RL and LLMs 2                                                                        |
+| Lecture 11 | 23.7.2026 | 12:15 | Information Extraction and Practical Applications                                    |
 
 
 ## Lecture Notes
