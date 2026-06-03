@@ -21,7 +21,7 @@ insights. By focusing on both technology and practical challenges, the session p
 drives research momentum, and identifies effective approaches for embedding large language models in data-driven
 applications across various fields.
 
-- Submission deadline: **May 30, 2026**
+- Submission deadline: **June 07, 2026**
 - Paper notification: **August 10, 2026**
 - Camera-ready: **August 30, 2026**
 - Contact: `amllab@bit.uni-bonn.de`
@@ -45,7 +45,21 @@ This special session examines the deployment of large language and foundation mo
 
 ## Keynotes
 
-*Keynotes for SSLLFM 2026: TBA.*
+### Keynote by Dr. Chandramouliswaran (Mouli) V
+
+**Dr. Chandramouliswaran (Mouli) V**, VP of AI & Site Lead, PayPal
+
+Dr. Chandramouliswaran (Mouli) V is VP of AI & Site Lead at PayPal, where he has worked since 2009, overseeing global teams in data science, big data, platform engineering, risk and compliance, forecasting, and payments. He earned his PhD from the Wharton School at the University of Pennsylvania. Before PayPal, he contributed to quantitative finance and trading strategies at Spark Capital and held data science, risk, and loyalty analytics roles at American Express. His work spans product and technology leadership, quantitative finance, and building analytics capability across startups, enterprise settings, and global delivery centers.
+
+**Talk details:** *To be announced.*
+
+### Towards Trustworthy and Scalable Graph Foundation Models
+
+**Dr. Sandeep Kumar**, Associate Professor, IIT Delhi (Electrical Engineering and Yardi School of AI)
+
+Dr. Sandeep Kumar is an Associate Professor in the Department of Electrical Engineering and the Yardi School of Artificial Intelligence at the Indian Institute of Technology Delhi, where he leads the Machine Intelligence Signals and Networks (MISN) Lab. He holds the Pankaj Gupta Chair Professorship in Privacy and Decentralization. His research spans graph machine learning, trustworthy and scalable AI, optimization, and foundation models, with applications in public health, finance, neuroscience, communication systems, and national security. He is Lead Investigator of Adi Vaani, a flagship initiative of the Ministry of Tribal Affairs developing multilingual AI for low-resource tribal and regional languages to advance digital inclusion and linguistic preservation. Through government and industry collaborations, his work combines rigorous algorithmic foundations with socially impactful AI systems.
+
+**Abstract**: As AI moves into the foundation-model era, a central question remains: how can we reason over complex relational structure while keeping systems trustworthy, scalable, and efficient? While large models excel in language and vision, many real-world domains—from biology and finance to social networks and scientific discovery—are inherently graph-structured. This talk positions Graph Neural Networks (GNNs) and graph representation learning as a foundation for the next generation of reliable AI. The talk first examines the trust gap in graph machine learning, covering robustness, fairness, privacy, and uncertainty in large-scale relational systems, including recent advances in fairness-aware models, privacy-preserving learning, and robust representations for high-impact deployment. It then discusses Self-Supervised Learning (SSL) as a scalable path to graph foundation models, showing how SSL objectives learn transferable relational representations and support graph-language models that combine semantic understanding with structural reasoning. Finally, the talk addresses scalability through optimization-based graph coarsening, compression, and hashing-driven dimensionality reduction, along with graph-to-MLP distillation for efficient deployment. The talk outlines a roadmap toward graph foundation models that are powerful, trustworthy, scalable, and practical for real-world AI systems.
 
 ## Submission
 
