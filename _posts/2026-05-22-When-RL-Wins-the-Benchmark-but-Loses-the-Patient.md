@@ -5,6 +5,7 @@ date: 2026-05-22
 author: Armin Berger
 categories: [Research]
 description: false
+tldr: "RL fine-tuning (GRPO) lifted our chest X-ray model's score 23% on one benchmark but dropped it 19% on another: it learned to predict dataset-specific labels, not to read X-rays. The same pattern appears at 50x the budget, so the problem is the recipe, not the resources. Carefully curated SFT generalized better across institutions."
 ---
 
 This is a TL;DR of our paper **"Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients"** by *Armin Berger, Manuela Bergau, Helen Schneider, Saad Ahmad, Tom Anglim Lagones, Gianluca Brugnara, Martha Foltyn-Dumitru, Kai Schlamp, Philipp Vollmuth, and Rafet Sifa*, available on [arXiv](https://arxiv.org/abs/2512.23090) and to be published in the Proceedings of IJCNN 2026.
