@@ -5,6 +5,7 @@ date: 2026-04-15
 author: Tobias Deußer
 categories: [News]
 description: false
+tldr: "Welcome to the official blog of the Applied Machine Learning Lab at the University of Bonn: our space for research highlights, course announcements, lab news, and tutorials."
 ---
 
 Welcome to the official blog of the Applied Machine Learning Lab at the University of Bonn! This space is where we share updates about our research, courses, events, and insights from our work in machine learning.

@@ -5,6 +5,7 @@ date: 2026-04-16
 author: Svetlana Schmidt
 categories: [Research]
 description: false
+tldr: "To automate the labor-intensive expansion of nutritional databases, we built a two-stage information retrieval system that matches food items by text and nutrient similarity. Adding SVM-based food category prediction (99% accuracy) boosted retrieval precision to 80%, and we outline an LLM-plus-optimization pipeline for simulating unmatched recipes."
 ---
 
 This is a short summary of our paper **"Towards Automated Recipe Reconstruction: Optimization of Dietary Data Collection using Information Retrieval, Large Language Models and Mathematical Optimization"** by *Svetlana Schmidt, Linda Klasen, Ute Nöthlings, and Rafet Sifa* published in the proceedings of the 2025 IEEE International Conference on Big Data. See [here](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14070) for the full paper.

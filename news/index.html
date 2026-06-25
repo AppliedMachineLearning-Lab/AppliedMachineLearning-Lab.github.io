@@ -16,7 +16,7 @@ description: Insights and Updates from the AML Lab
       {% endif %}
     </div>
     <div class="post-excerpt">
-      {{ post.excerpt | strip_html | truncatewords: 60 }}
+      {% if post.tldr %}{{ post.tldr }}{% else %}{{ post.excerpt | strip_html | truncatewords: 60 }}{% endif %}
     </div>
     <a href="{{ post.url | relative_url }}" class="read-more-link">Read more &rarr;</a>
   </article>

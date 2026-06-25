@@ -5,6 +5,7 @@ date: 2026-04-29
 author: Tobias Deußer
 categories: [Research]
 description: false
+tldr: "Sensitive documents make collecting real training data hard, so we generate realistic synthetic data instead: template-based documents filled by Faker and LLMs. A BERT classifier trained purely on synthetic data reaches 88% page-wise precision on a real-world test set it never saw during training."
 ---
 
 This is a short summary of our paper **"Leveraging Synthetically Generated Data for Real Estate Document Classification"** by *Tobias Deußer, Gregor Ramien, Nico Weber, Maximilian Meidinger, Max Hahnbück, Christian Bauckhage, and Rafet Sifa*, published in the proceedings of the 2025 IEEE International Conference on Big Data. See [here](https://ieeexplore.ieee.org/abstract/document/11400789) for the published version and [here](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/13972) for the open-access bonndoc version.

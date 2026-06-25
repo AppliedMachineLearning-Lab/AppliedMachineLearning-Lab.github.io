@@ -28,7 +28,7 @@ If you want to reach out to us, please write to:
     {% endif %}
   </div>
   <div class="post-excerpt">
-    {{ latest.excerpt | strip_html | truncatewords: 60 }}
+    {% if latest.tldr %}{{ latest.tldr }}{% else %}{{ latest.excerpt | strip_html | truncatewords: 60 }}{% endif %}
   </div>
   <a href="{{ latest.url | relative_url }}" class="read-more-link">Read more &rarr;</a>
 </article>

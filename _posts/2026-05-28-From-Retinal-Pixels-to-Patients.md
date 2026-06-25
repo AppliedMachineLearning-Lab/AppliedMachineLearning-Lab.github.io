@@ -5,6 +5,7 @@ date: 2026-05-28
 author: Muskaan Chopra
 categories: [Research]
 description: false
+tldr: "A survey of deep learning for diabetic retinopathy screening (2016–2025), spanning 50+ studies and 20+ datasets. The key takeaway: strong benchmark scores don't equal clinical readiness: the field needs reproducible code, external validation, calibration, and per-patient evaluation."
 ---
 
 This is a short summary of our paper **"From Retinal Pixels to Patients: Evolution of Deep Learning Research in Diabetic Retinopathy Screening"** by *Muskaan Chopra, Lorenz Sparrenberg, Armin Berger, Sarthak Khanna, Jan H. Terheyden, and Rafet Sifa*, published in the proceedings of the 2025 IEEE International Conference on Big Data. See [here](https://ieeexplore.ieee.org/document/11402603) for the published version and [here](https://arxiv.org/abs/2511.11065) for the open-access arxiv version.
