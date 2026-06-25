@@ -39,6 +39,7 @@ This course, offered as part of the *Master's Program in Human Centered Intellig
 - Lecture 04: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_04_FAsAndTransformers.zip)
 - Lecture 05: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_05_TextualEmbeddings.zip)
 - Lecture 06: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_06_NLP.zip)
+- Lecture 07: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_07_Multimodality.zip)
 
 
 
