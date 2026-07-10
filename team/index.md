@@ -12,7 +12,7 @@ description: false
 
 ## Postdocs
 
-[Dr. Tobias Deußer](tobiasdeusser/), [Dr. Corinna Schmalohr](corinnaschmalohr/), [Dr. Lorenz Sparrenberg](lorenzsparrenberg/)
+[Dr. Tobias Deußer](tobiasdeusser/), [Dr. Rajkumar Ramamurthy](rajkumarramamurthy/), [Dr. Corinna Schmalohr](corinnaschmalohr/), [Dr. Lorenz Sparrenberg](lorenzsparrenberg/)
 
 ## PhD Students
 
@@ -20,4 +20,4 @@ Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Hossam Elsafty, 
 
 ## Student Assistants
 
-Muskaan Chopra, Tobias Schneider
+Muskaan Chopra, Muhammad Ibrahim Afsar Khan, Mai Nguyen Nhat, Tobias Schneider
