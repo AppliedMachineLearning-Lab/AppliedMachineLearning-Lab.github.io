@@ -49,10 +49,7 @@ If you find it challenging to come up with a topic of your own, don’t worry. B
 This list of topics is organized by the mentor that is offering to supervise the thesis. If you think one of these topics is of interest to you, contact her/him directly (see the [Team](/team/) page for contact details).
 
 #### Farizeh Aldabbas
-- **Domain-Specific OCR for Financial Documents**
-    - Investigate OCR performance on financial documents such as scanned reports, invoices, handwritten notes, and digital screenshots. The project focuses on improving text recognition accuracy in finance-specific content, including tables, numerical values, currencies, multilingual text, and low-quality document images.
-- **Psycholinguistic Conspiracy Marker Detection**
-    - Investigate the detection of conspiracy-related narratives in online text by identifying psycholinguistic markers associated with conspiratorial discourse. The project focuses on developing classification models to detect such patterns and analyzing the linguistic signals of conspiracy rhetoric.
+- Currently at capacity: not taking on new thesis students at the moment.
 
 #### Tobias Deußer
 - **Constrained Entity Decoding with Diffusion Models**
@@ -68,12 +65,5 @@ This list of topics is organized by the mentor that is offering to supervise the
 
 #### Corinna Schmalohr
 
-- **Benchmarking Large Language Models for Clinical Documentation: Accuracy, Bias, and Safety in AI Medical Scribes**
 - **Design and Evaluation of AI-Assisted Clinical Decision Support Systems for Rare Disease Diagnosis**
 - **Robust Information Extraction from Noisy Clinical Documents: Combining OCR and Language Models**
-- **Hallucination Detection in Medical Large Language Models**
-
-#### Svetlana Schmidt
-
-- **Design and evaluation of a food and nutrition ontology for integrating food data sources.**
-- **Ontology-aware semantic retrieval for ingredient normalization in food product data.**
