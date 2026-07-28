@@ -41,6 +41,7 @@ This course, offered as part of the *Master's Program in Human Centered Intellig
 - Lecture 06: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_06_NLP.zip)
 - Lecture 07: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_07_Multimodality.zip)
 - Lecture 08: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_08_Big_Data.zip)
+- Lecture 09: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_II_SS26/raw/refs/heads/main/MMD_II_SS26_Lecture_09_ReinforcementLearning1.zip)
 
 
 
