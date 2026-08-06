@@ -1,0 +1,65 @@
+{%- assign publication = include.publication -%}
+<li class="pub-item">
+  {%- comment -%}Liquid treats "" as truthy, so compare explicitly.{%- endcomment -%}
+  <div class="pub-title">
+    {%- if publication.url != "" -%}
+      <a href="{{ publication.url }}">{{ publication.title }}</a>
+    {%- else -%}
+      {{ publication.title }}
+    {%- endif -%}
+  </div>
+  <div class="pub-authors">
+    {{- publication.authors | join: ", " -}}
+  </div>
+  {%- comment -%}
+    Name the badge after the hosting repository where we recognise it. Assigned
+    unconditionally so a value cannot leak into the next entry on the page.
+  {%- endcomment -%}
+  {%- assign oa_label = "" -%}
+  {%- if publication.oa_url and publication.oa_url != "" -%}
+    {%- if publication.oa_url contains "bonndoc" -%}
+      {%- assign oa_label = "bonndoc" -%}
+      {%- assign oa_repository = "bonndoc, ULB Bonn" -%}
+    {%- elsif publication.oa_url contains "fraunhofer" -%}
+      {%- assign oa_label = "Fraunhofer Publica" -%}
+      {%- assign oa_repository = "Fraunhofer Publica" -%}
+    {%- else -%}
+      {%- assign oa_label = "Open Access" -%}
+      {%- assign oa_repository = "an institutional repository" -%}
+    {%- endif -%}
+  {%- endif -%}
+  <div class="pub-meta">
+    {%- if publication.type == "preprint" -%}
+      <span class="pub-tag pub-tag-preprint">Preprint</span>
+    {%- elsif publication.type == "book" -%}
+      <span class="pub-tag pub-tag-book">Book</span>
+    {%- elsif publication.type == "phdthesis" -%}
+      <span class="pub-tag pub-tag-thesis">PhD Thesis</span>
+    {%- endif -%}
+    {%- comment -%}
+      "Preprint · arXiv" is redundant, so the venue is dropped there. A preprint
+      hosted anywhere else still shows where it lives.
+    {%- endcomment -%}
+    {%- assign redundant_venue = false -%}
+    {%- if publication.type == "preprint" and publication.venue == "arXiv" -%}
+      {%- assign redundant_venue = true -%}
+    {%- endif -%}
+    {%- if publication.venue != "" and redundant_venue == false -%}
+      {%- comment -%}
+        With an open access badge alongside it, the venue becomes the way back to
+        the publisher's version, so it carries the link the title would use.
+      {%- endcomment -%}
+      {%- if oa_label != "" and publication.url != "" -%}
+        <a class="pub-tag pub-tag-venue" href="{{ publication.url }}"
+           title="Published version">{{ publication.venue }}</a>
+      {%- else -%}
+        <span class="pub-tag pub-tag-venue">{{ publication.venue }}</span>
+      {%- endif -%}
+    {%- endif -%}
+    {%- if oa_label != "" -%}
+      <a class="pub-tag pub-tag-oa" href="{{ publication.oa_url }}"
+         title="Free full text via {{ oa_repository }}">{{ oa_label }}</a>
+    {%- endif -%}
+    {%- if publication.dblp != "" %}<a class="pub-dblp" href="{{ publication.dblp }}">dblp</a>{% endif -%}
+  </div>
+</li>

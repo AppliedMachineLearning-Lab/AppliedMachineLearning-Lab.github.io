@@ -283,6 +283,168 @@ $section-headings-color: #005baa;
   text-decoration: underline;
 }
 
+/* Publications list (research/publications.md) */
+.pub-summary {
+  margin: 1.5rem 0;
+  padding: 0.75rem 1rem;
+  background: #f6f8fa;
+  border-left: 3px solid #005baa;
+  font-size: 0.95rem;
+}
+
+.pub-yearnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 2rem;
+}
+
+.pub-yearnav a {
+  padding: 0.2rem 0.7rem;
+  border: 1px solid #005baa;
+  border-radius: 3px;
+  color: #005baa;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-yearnav a:hover {
+  background: #005baa;
+  color: #fff;
+}
+
+h2.pub-year {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 2.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.pub-count {
+  padding: 0.1rem 0.5rem;
+  border-radius: 10px;
+  background: #eef2f6;
+  color: #57606a;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.pub-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pub-item {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.pub-title {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.pub-title a {
+  color: #005baa;
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+}
+
+.pub-authors {
+  margin-top: 0.2rem;
+  color: #444;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.35rem;
+  font-size: 0.85rem;
+}
+
+.pub-tag {
+  padding: 0.05rem 0.45rem;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Venue names keep their own capitalisation ("IEEE Big Data", "arXiv"). */
+.pub-tag-venue {
+  background: #e7f0f9;
+  color: #005baa;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* Only linked when there is an open access version to distinguish it from. */
+a.pub-tag-venue {
+  text-decoration: none;
+}
+
+a.pub-tag-venue:hover {
+  background: #005baa;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Neutral slate: sits next to the blue venue and green OA tags without
+   competing with either, since all three appear on the same row. */
+.pub-tag-preprint {
+  background: #e6eaed;
+  color: #3d4852;
+}
+
+.pub-tag-book {
+  background: #ede4f5;
+  color: #5a3a80;
+}
+
+.pub-tag-thesis {
+  background: #fff4e5;
+  color: #8a5a00;
+}
+
+/* Labelled with the repository name, so it keeps its own casing ("bonndoc"). */
+.pub-tag-oa {
+  background: #e3f2e3;
+  color: #2c6e2c;
+  text-transform: none;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+/* text-decoration repeated so the theme's `a:hover` underline does not win. */
+.pub-tag-oa:hover {
+  background: #2c6e2c;
+  color: #fff;
+  text-decoration: none;
+}
+
+.pub-dblp {
+  color: #8b949e;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.pub-dblp:hover {
+  color: #005baa;
+  text-decoration: underline;
+}
+
 /* Very small screens */
 @media screen and (max-width: 480px) {
   .nav-container {

@@ -1,0 +1,43 @@
+name: Update publications
+
+on:
+  schedule:
+    # Mondays at 04:00 UTC. GitHub may delay scheduled runs under load.
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Needed to read back the manual edits already in _data/publications.yml.
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Fetch publications from DBLP
+        run: python3 scripts/fetch_publications.py
+
+      - name: Commit if the list changed
+        run: |
+          if git diff --quiet -- _data/publications.yml; then
+            echo "No new publications."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/publications.yml
+          git commit -m "Update publications from DBLP"
+          git push
