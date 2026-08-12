@@ -79,7 +79,7 @@ All accepted workshop papers will be published by IEEE in the BigData 2026 Proce
 - Dr. Linsey Pang (PayPal, USA)
 - Dr. Thore Gerlach (European Space Agency, Netherlands)
 
-This workshop has been partially funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the Lamarr-Institute for Machine Learning and Artificial Intelligence.
+This workshop has been partially funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the **Lamarr-Institute for Machine Learning and Artificial Intelligence**.
 
 ## Previous iterations
  
