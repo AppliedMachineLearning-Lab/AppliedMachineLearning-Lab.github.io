@@ -13,10 +13,11 @@ description: Co-located with IEEE BigData 2026
 Large language models (LLMs) and foundation models (FMs) have rapidly emerged as pivotal technologies in data science and analytics, offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. However, a significant gap remains between the rapid theoretical advancements in these models and their robust, scalable deployment in industrial environments.
 
 This workshop seeks to bridge cutting-edge theory with real-world applications, providing a venue for researchers and practitioners to exchange novel methodologies, deployment strategies, and impact-driven insights. By spotlighting both breakthrough techniques and operational challenges (such as scalability, interpretability, and ethics), the session aims to foster cross-pollination of ideas and accelerate the seamless integration of large language models into diverse data-driven ecosystems.
- 
-- Submission Deadline: **TBA** (tentative: early October 2026)
-- Paper Notification: **TBA** (tentative: early November 2026)
-- Paper Camera-Ready: **November 13th, 2025**
+
+- Submission Deadline: **October 26th, 2026**
+- Paper Notification: **November 9th, 2026**
+- Paper Camera-Ready: **November 21st, 2026**
+- All dates are AoE (Anywhere on Earth)
 - Contact: `amllab[at]bit.uni-bonn.de`
 
 ## Submission
