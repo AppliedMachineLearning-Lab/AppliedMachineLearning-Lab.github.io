@@ -80,7 +80,8 @@ All accepted workshop papers will be published by IEEE in the BigData 2026 Proce
 - Dr. Linsey Pang (PayPal, USA)
 - Dr. Thore Gerlach (European Space Agency, Netherlands)
 
-This workshop has been partially funded by the Federal Ministry of Education and Research of Germany and the state of North-Rhine Westphalia as part of the **Lamarr-Institute for Machine Learning and Artificial Intelligence**.
+
+
 
 ## Previous iterations
  
@@ -89,3 +90,10 @@ This workshop has been partially funded by the Federal Ministry of Education and
 - [SSLLFM 2025](https://appliedmachinelearning-lab.github.io/ssllfm2025/)
 - [WLLFM 2024](https://sites.google.com/view/wllfm24)
 - [WLLFM 2023](https://dhavalrepo18.github.io/bigdatafm/)
+
+
+---
+
+WLLFM 2026 is sponsored by the [**Lamarr-Institute for Machine Learning and Artificial Intelligence**](https://lamarr-institute.org/lamarr/).
+
+<a href="https://lamarr-institute.org/lamarr/"><img src="{{ site.baseurl }}/assets/lamarr-logo-2023.png" alt="Lamarr Institute for Machine Learning and Artificial Intelligence" style="max-width: 300px; height: auto;"></a>
