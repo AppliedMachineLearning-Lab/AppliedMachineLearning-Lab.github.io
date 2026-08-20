@@ -55,7 +55,7 @@ This list of topics is organized by the mentor that is offering to supervise the
 - **Constrained Entity Decoding with Diffusion Models**
     - Mandatory reading before contacting: *Large Language Diffusion Models* by Nie et al., *Informed Named Entity Recognition Decoding for Generative Language Models* by Deußer et al., *Diffusion-LM Improves Controllable Text Generation* by Li et al.
 - **Cultural and Contextual Dimensions in Pseudoanonymisation**
-    - Mandatory reading before contacting: *Resource-Efficient Anonymization of Textual Data via Knowledge Distillation from Large Language Models* by Deußer et al.
+    - Mandatory reading before contacting: *Resource-Efficient Anonymization of Textual Data via Knowledge Distillation from Large Language Models* by Deußer et al., *A survey on current trends and recent advances in text anonymization* by Deußer et al.
 
 #### Hossam Elsafty
 
@@ -67,3 +67,6 @@ This list of topics is organized by the mentor that is offering to supervise the
 
 - **Design and Evaluation of AI-Assisted Clinical Decision Support Systems for Rare Disease Diagnosis**
 - **Robust Information Extraction from Noisy Clinical Documents: Combining OCR and Language Models**
+
+#### Lorenz Sparrenberg
+- Currently at capacity: not taking on new thesis students at the moment.
