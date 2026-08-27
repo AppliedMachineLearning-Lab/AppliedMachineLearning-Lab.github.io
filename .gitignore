@@ -18,3 +18,7 @@ vendor/
 
 # macos stuff
 .DS_STORE
+
+# python
+__pycache__/
+*.pyc
