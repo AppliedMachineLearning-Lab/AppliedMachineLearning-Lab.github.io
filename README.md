@@ -44,7 +44,7 @@ The post will automatically appear on the [/news/](/news/) page. The date in the
 
 ## Publications
 
-The list on [/research/publications](/research/publications) is generated from Rafet's DBLP author page, which works as the lab's feed because every lab paper lists him as a co-author. A GitHub Action re-runs `scripts/fetch_publications.py` every Monday and commits `_data/publications.yml` only if something changed, so new papers show up on their own within a week of DBLP indexing them. To pull them in sooner, go to the **Actions** tab -> **Update publications** -> **Run workflow**.
+The list on [/research/publications](/research/publications) is generated from Rafet's DBLP record, which works as the lab's feed because every lab paper lists him as a co-author. The data is read from DBLP's SPARQL endpoint (`sparql.dblp.org`), because DBLP put its main site, the per-author XML export and the search API included, behind a proof-of-work bot check in September 2026 (we can reevaluate this later). A GitHub Action re-runs `scripts/fetch_publications.py` every Monday and commits `_data/publications.yml` only if something changed, so new papers show up on their own within a week of DBLP indexing them. To pull them in sooner, go to the **Actions** tab -> **Update publications** -> **Run workflow**.
 
 Everything below is done by editing `_data/publications.yml` and committing it to `main`. Your edits are kept on the next refresh, the script merges them back in rather than overwriting the file blindly. Note that YAML comments in that file are *not* preserved, since it gets rewritten on every run.
 
