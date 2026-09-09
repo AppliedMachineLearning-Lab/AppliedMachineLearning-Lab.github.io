@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """Regenerate _data/publications.yml from DBLP, keeping manual edits intact.
 
-Every AML Lab paper lists Rafet Sifa as a co-author, so his DBLP author page is
-used as the lab's publication feed. Run with no arguments:
+Every AML Lab paper lists Rafet Sifa as a co-author, so his DBLP record is used
+as the lab's publication feed. Run with no arguments:
 
     python3 scripts/fetch_publications.py
+
+Data comes from DBLP's SPARQL endpoint rather than the per-author XML export,
+because in September 2026 DBLP put its main site (the XML export and the search
+API included) behind an Anubis proof-of-work bot check, which no unattended
+script can pass. sparql.dblp.org serves the same knowledge graph unchallenged.
 
 Hand-editing the generated file is supported in two ways:
 
@@ -30,8 +35,8 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
 try:
@@ -68,26 +73,77 @@ FIELD_ORDER = (
 )
 
 OUTPUT = Path(__file__).resolve().parent.parent / "_data" / "publications.yml"
-DBLP_URL = f"https://dblp.org/pid/{DBLP_PID}.xml"
+SPARQL_URL = "https://sparql.dblp.org/sparql"
+REC_PREFIX = "https://dblp.org/rec/"
 USER_AGENT = "AMLLab-Publications-Bot/1.0 (+https://appliedmachinelearning-lab.github.io)"
 
 # DBLP appends a four-digit suffix to homonymous author names ("Kang Liu 0001").
 HOMONYM_SUFFIX = re.compile(r"\s+\d{4}$")
-# Booktitles carry the proceedings volume for multi-volume conferences ("ECIR (3)").
-# "(Findings)" and "(Industry)" are meaningful and must survive.
+# Some venue labels carry the proceedings volume for multi-volume conferences
+# ("ECIR (3)"). "(Findings)" and "(Industry)" are meaningful and must survive.
 VOLUME_SUFFIX = re.compile(r"\s*\(\d+\)$")
+# Separators for packing ordered author names into one GROUP_CONCAT string.
+# Chosen so they cannot occur inside a DBLP author name.
+AUTHOR_SEP, ORDINAL_SEP = "@@", "~~"
+
+QUERY = f"""
+PREFIX dblp: <https://dblp.org/rdf/schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?pub ?year ?type
+       (SAMPLE(?t) AS ?title) (SAMPLE(?bt) AS ?bibtex) (SAMPLE(?v) AS ?venue)
+       (SAMPLE(?d) AS ?doi) (SAMPLE(?dp) AS ?docpage)
+       (SAMPLE(?vol) AS ?volume) (SAMPLE(?toc) AS ?tocpage)
+       (SAMPLE(?sch) AS ?school) (SAMPLE(?pby) AS ?publisher)
+       (GROUP_CONCAT(CONCAT(STR(?ord), "{ORDINAL_SEP}", ?name);
+                     separator="{AUTHOR_SEP}") AS ?authors)
+WHERE {{
+  ?pub dblp:authoredBy <https://dblp.org/pid/{DBLP_PID}> ;
+       dblp:title ?t ;
+       dblp:yearOfPublication ?year ;
+       a ?type .
+  FILTER(?type != dblp:Publication)
+  FILTER(xsd:integer(STR(?year)) >= {START_YEAR})
+  OPTIONAL {{ ?pub dblp:bibtexType ?bt }}
+  OPTIONAL {{ ?pub dblp:publishedIn ?v }}
+  OPTIONAL {{ ?pub dblp:doi ?d }}
+  OPTIONAL {{ ?pub dblp:primaryDocumentPage ?dp }}
+  OPTIONAL {{ ?pub dblp:publishedInJournalVolume ?vol }}
+  OPTIONAL {{ ?pub dblp:listedOnTocPage ?toc }}
+  OPTIONAL {{ ?pub dblp:thesisAcceptedBySchool ?sch }}
+  OPTIONAL {{ ?pub dblp:publishedBy ?pby }}
+  ?pub dblp:hasSignature ?sig .
+  ?sig dblp:signatureOrdinal ?ord ;
+       dblp:signatureDblpName ?name .
+}}
+GROUP BY ?pub ?year ?type
+"""
 
 
-def fetch(url: str, attempts: int = 4) -> bytes:
-    """GET url, backing off on the 429s DBLP hands out to impatient clients."""
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+def fetch(attempts: int = 4) -> dict:
+    """Run the SPARQL query, backing off on the endpoint's transient errors."""
+    body = urllib.parse.urlencode({"query": QUERY}).encode()
+    request = urllib.request.Request(
+        SPARQL_URL,
+        data=body,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/sparql-results+json",
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+    )
     for attempt in range(1, attempts + 1):
         try:
-            with urllib.request.urlopen(request, timeout=60) as response:
-                return response.read()
-        except (urllib.error.URLError, TimeoutError) as exc:
-            retryable = getattr(exc, "code", None) in (429, 500, 502, 503, 504)
-            if attempt == attempts or not (retryable or isinstance(exc, (urllib.error.URLError, TimeoutError))):
+            with urllib.request.urlopen(request, timeout=120) as response:
+                raw = response.read()
+            try:
+                return json.loads(raw)
+            except json.JSONDecodeError:
+                # A bot-check or maintenance page arrives as HTML with status 200,
+                # so a bad body has to be treated as a failure in its own right.
+                snippet = raw[:200].decode("utf-8", "replace").replace("\n", " ")
+                raise RuntimeError(f"expected JSON, got: {snippet}")
+        except (urllib.error.URLError, TimeoutError, RuntimeError) as exc:
+            if attempt == attempts:
                 raise
             delay = 5 * 2 ** (attempt - 1)
             print(f"  {exc} — retrying in {delay}s", file=sys.stderr)
@@ -95,15 +151,9 @@ def fetch(url: str, attempts: int = 4) -> bytes:
     raise RuntimeError("unreachable")
 
 
-def text_of(element: ET.Element | None) -> str:
-    """Flatten an element's text, dropping the inline <i>/<sub> markup DBLP uses."""
-    if element is None:
-        return ""
-    return re.sub(r"\s+", " ", "".join(element.itertext())).strip()
-
-
 def clean_title(raw: str) -> str:
-    return raw.rstrip(".").strip() if raw.endswith(".") else raw
+    raw = re.sub(r"\s+", " ", raw).strip()
+    return raw[:-1].strip() if raw.endswith(".") else raw
 
 
 def normalize_title(raw: str) -> str:
@@ -111,75 +161,77 @@ def normalize_title(raw: str) -> str:
     return re.sub(r"[^a-z0-9]", "", raw.lower())
 
 
-def dblp_link(entry: ET.Element) -> str:
-    """DBLP's <url> is relative to the site root ("db/conf/...#key")."""
-    url = text_of(entry.find("url"))
-    return f"https://dblp.org/{url}" if url else ""
+def authors_of(packed: str) -> list[str]:
+    """Unpack the "<ordinal>~~<name>@@..." blob into author order."""
+    people = []
+    for item in packed.split(AUTHOR_SEP):
+        ordinal, _, name = item.partition(ORDINAL_SEP)
+        if not name:
+            continue
+        try:
+            rank = int(ordinal)
+        except ValueError:
+            rank = 999
+        people.append((rank, HOMONYM_SUFFIX.sub("", name.strip())))
+    return [name for _, name in sorted(people)]
 
 
-def best_link(entry: ET.Element) -> str:
-    """Prefer a DOI, then any other publisher link, then the DBLP record."""
-    links = [text_of(ee) for ee in entry.findall("ee") if text_of(ee)]
-    for link in links:
-        if "doi.org" in link:
-            return link
-    if links:
-        return links[0]
-    return dblp_link(entry)
-
-
-def venue_of(entry: ET.Element) -> str:
-    if entry.tag == "inproceedings":
-        return VOLUME_SUFFIX.sub("", text_of(entry.find("booktitle")))
-    if entry.tag == "article":
-        journal = text_of(entry.find("journal"))
-        # The template already tags these as preprints, so "arXiv" alone reads better.
-        return "arXiv" if journal == "CoRR" else journal
-    if entry.tag == "book":
-        parts = [text_of(entry.find("series")), text_of(entry.find("publisher"))]
-        return ", ".join(part for part in parts if part)
-    if entry.tag == "phdthesis":
-        # Theses are single-authored, so they only reach DBLP's feed for Rafet's
-        # own; lab members' theses have to be added by hand with manual: true.
-        return text_of(entry.find("school"))
-    return ""
-
-
-def parse(xml: bytes) -> list[dict]:
-    root = ET.fromstring(xml)
+def parse(payload: dict) -> list[dict]:
     peer_reviewed: list[dict] = []
     preprints: list[dict] = []
 
-    for record in root.findall("r"):
-        for entry in record:
-            year = entry.findtext("year")
-            if not year or int(year) < START_YEAR:
-                continue
+    for row in payload["results"]["bindings"]:
+        def value(name: str) -> str:
+            return row.get(name, {}).get("value", "").strip()
 
-            title = clean_title(text_of(entry.find("title")))
-            if not title:
-                continue
+        title = clean_title(value("title"))
+        key = value("pub").removeprefix(REC_PREFIX)
+        if not title or not key:
+            continue
 
-            is_preprint = entry.get("publtype") == "informal"
-            arxiv_id = ""
-            if is_preprint:
-                # CoRR entries store the arXiv id in <volume> as "abs/2601.14039".
-                arxiv_id = text_of(entry.find("volume")).removeprefix("abs/")
+        rdf_type = value("type").rsplit("#", 1)[-1]
+        is_thesis = value("bibtex").endswith("Phdthesis")
+        is_preprint = rdf_type == "Informal"
+        kind = {
+            "Inproceedings": "inproceedings",
+            "Article": "article",
+            "Informal": "preprint",
+            "Book": "phdthesis" if is_thesis else "book",
+        }.get(rdf_type, "inproceedings")
 
-            publication = {
-                "key": entry.get("key", ""),
-                "title": title,
-                "authors": [
-                    HOMONYM_SUFFIX.sub("", text_of(author))
-                    for author in entry.findall("author")
-                ],
-                "year": int(year),
-                "venue": venue_of(entry),
-                "type": "preprint" if is_preprint else entry.tag,
-                "url": f"https://arxiv.org/abs/{arxiv_id}" if arxiv_id else best_link(entry),
-                "dblp": dblp_link(entry),
-            }
-            (preprints if is_preprint else peer_reviewed).append(publication)
+        # CoRR records carry the arXiv id in the journal volume ("abs/2601.14039").
+        arxiv_id = value("volume").removeprefix("abs/") if is_preprint else ""
+
+        if is_preprint:
+            venue = "arXiv"
+        elif is_thesis:
+            venue = value("school")
+        elif kind == "book":
+            # Books read better with their publisher: "Cognitive Technologies, Springer".
+            venue = ", ".join(p for p in (value("venue"), value("publisher")) if p)
+        else:
+            venue = VOLUME_SUFFIX.sub("", value("venue"))
+
+        # DBLP's TOC page plus the record key is the human-facing record link.
+        toc = value("tocpage")
+        dblp_link = f"{toc}.html#{key.rsplit('/', 1)[-1]}" if toc else ""
+
+        if arxiv_id:
+            url = f"https://arxiv.org/abs/{arxiv_id}"
+        else:
+            url = value("doi") or value("docpage") or dblp_link
+
+        publication = {
+            "key": key,
+            "title": title,
+            "authors": authors_of(value("authors")),
+            "year": int(value("year")),
+            "venue": venue,
+            "type": kind,
+            "url": url,
+            "dblp": dblp_link,
+        }
+        (preprints if is_preprint else peer_reviewed).append(publication)
 
     # A preprint that later appeared at a venue would otherwise be listed twice.
     published_titles = {normalize_title(p["title"]) for p in peer_reviewed}
@@ -304,7 +356,7 @@ def to_yaml(publications: list[dict]) -> str:
     """Emit YAML by hand so the field order and quoting stay diff-friendly."""
     lines = [
         "# Generated by scripts/fetch_publications.py from DBLP — refreshed weekly.",
-        f"# Source: https://dblp.org/pid/{DBLP_PID}.html (papers from {START_YEAR} onwards)",
+        f"# Source: sparql.dblp.org, author pid {DBLP_PID} (papers from {START_YEAR} onwards)",
         "#",
         "# Hand edits: set `manual: true` on an entry to freeze it (never overwritten,",
         "# and kept even if DBLP drops it). `oa_url:` is preserved on every refresh",
@@ -330,8 +382,8 @@ def to_yaml(publications: list[dict]) -> str:
 
 
 def main() -> int:
-    print(f"Fetching {DBLP_URL}")
-    publications = merge(parse(fetch(DBLP_URL)), load_existing(OUTPUT))
+    print(f"Querying {SPARQL_URL} for pid {DBLP_PID}")
+    publications = merge(parse(fetch()), load_existing(OUTPUT))
     if not publications:
         print("Refusing to write an empty publication list.", file=sys.stderr)
         return 1
