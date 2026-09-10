@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Courses @ AML-Lab
+title: Teaching @ AML-Lab
 description: An overview of teaching activities of the AML-Lab
 ---
 
 # Course: Introduction to Learning Systems and Data Science
+
+See [here](./archive/ilsds25/) for the archived iteration (Winter Semester 2025/2026) of this course.
 
 This course, part of the curriculum for aspiring data scientists and AI practitioners, offers a foundational understanding of key concepts and methodologies in learning systems and data science. The primary focus is on learning systems, their architectures, and how they can be effectively designed and implemented to solve complex problems.
 
@@ -39,6 +41,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 # Course: Mining Media Data I
 
+See [here](./archive/mmdi25/) for the archived iteration (Winter Semester 2025/2026) of this course.
+
 This course, offered as part of the Master's Program in Media Informatics at the Bonn-Aachen International Center for Information Technology (B-IT), provides a comprehensive exploration of advanced data mining techniques tailored for media data analysis. Students will delve into methods like affinity mining, latent pattern mining, neural networks, and archetypal analysis to uncover insights in behavioral profiling, recommender systems, and outlier detection. Emphasis is placed on theoretical understanding and practical application through mathematical optimization, interpretable models, and real-world case studies, enabling participants to harness data for impactful digital marketing, fraud detection, and content personalization.
 
 ## Course Topics
@@ -52,7 +56,7 @@ This course, offered as part of the Master's Program in Media Informatics at the
 
 # Course: Mining Media Data II
 
-See [here](./mmdii26/) for the current iteration of this course.
+See [here](./archive/mmdii26/) for the archived iteration (Summer Semester 2026) of this course.
 
 This course explores advanced techniques in data mining, emphasizing predictive and prescriptive methods applied to media data. Students will learn to analyze large and complex datasets using state-of-the-art machine learning methodologies, including behavioral prediction, knowledge distillation, and large language models (LLMs). The curriculum includes foundational concepts, text representation learning, transformer architectures, and practical applications in media analytics, such as recommendation systems and information extraction.
 
@@ -67,7 +71,7 @@ This course explores advanced techniques in data mining, emphasizing predictive 
 
 # Lab: Explainable AI
 
-See [here](./xai26/) for the current iteration of this lab.
+See [here](./archive/xai26/) for the archived iteration (Summer Semester 2026) of this lab.
 
 In the lab “Explainable AI”, we encourage lab participants to find limitations of current explainable AI topics and explore novel solutions of these. Students are expected to work on their own topics, simulating how research works in practice and preparing them for their master thesis.
 
@@ -82,6 +86,8 @@ In the lab “Explainable AI”, we encourage lab participants to find limitatio
 ---
 
 # Lab: Hybrid Learning and Applications
+
+See [here](./hla2627/) for the current iteration of this lab.
 
 This lab offers a comprehensive introduction to hybrid learning, merging machine learning and deep learning techniques to address complex problems. Students explore a range of fascinating applications and are encouraged to select and research their project topics.
 
@@ -108,7 +114,7 @@ This seminar focuses on the theoretical underpinnings of deep neural networks, p
 
 # Seminar: Data Science for Medical Applications
 
-See [here](./dsma26/) for the current iteration of this seminar.
+See [here](./archive/dsma26/) for the archived iteration (Summer Semester 2026) of this seminar.
 
 In this seminar, current, relevant research progress in the field of data science in the analysis of medical data is reviewed and presented by the students.
 

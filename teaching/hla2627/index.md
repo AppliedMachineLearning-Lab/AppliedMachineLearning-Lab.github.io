@@ -43,7 +43,7 @@ Deadline for proposal submission is **Wed, 30 Sep 2026, 23:59 (AOE)**.
 
 | Date             | Time          | Title                   | Location  |
 |------------------|---------------|-------------------------|-----------|
-| Wed, 30 Sep 2026 | 23:59 (AOE)   | Proposal Submission Deadline            |     |
+| Wed, 10 Oct 2026 | 23:59 (AOE)   | Proposal Submission Deadline            |     |
 | Fri, 23 Oct 2026 | 14:00–16:00   | HLA Lab Info            | Remote    |
 | Fri, 30 Oct 2026 | 14:00–16:00   | HLA Lab Pitch           | Remote    |
 | Fri, 11 Dec 2026 | 14:00–16:00   | HLA Midterm             | Remote    |
