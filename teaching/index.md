@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Teaching @ AML-Lab
-description: An overview of teaching activities of the AML-Lab
+title: Teaching @ AML Lab
+description: An overview of teaching activities of the AML Lab
 ---
 
 # Course: Introduction to Learning Systems and Data Science
