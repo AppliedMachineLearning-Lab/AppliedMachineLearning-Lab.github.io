@@ -32,6 +32,8 @@ To be considered for the lab, we ask you to submit a short proposal (maximum a p
 - How much compute will you need, and where will you obtain it?
 - Is the project realistic to complete within the semester?
 
+Deadline for proposal submission is **Wed, 30 Sep 2026**.
+
 ## Lecturers
 
 - [Corinna Schmalohr](/team/corinnaschmalohr/)
@@ -41,6 +43,7 @@ To be considered for the lab, we ask you to submit a short proposal (maximum a p
 
 | Date             | Time          | Title                   | Location  |
 |------------------|---------------|-------------------------|-----------|
+| Wed, 30 Sep 2026 | 14:00–16:00   | Proposal Submission Deadline            |     |
 | Fri, 23 Oct 2026 | 14:00–16:00   | HLA Lab Info            | Remote    |
 | Fri, 30 Oct 2026 | 14:00–16:00   | HLA Lab Pitch           | Remote    |
 | Fri, 11 Dec 2026 | 14:00–16:00   | HLA Midterm             | Remote    |
