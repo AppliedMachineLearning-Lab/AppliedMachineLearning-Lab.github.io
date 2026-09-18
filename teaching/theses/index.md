@@ -29,6 +29,7 @@ Our lab follows several specific procedures when it comes to bachelor’s and ma
 
 - The master thesis usually takes about 6 months (it is planned for about 20-24 weeks)
 - The working language of our group is English. That means, the meetings with the mentor and supervisor are usually in English, and the presentations to the team as well. Ideally, the work is also written in English, so that the students can also get regular feedback from the mentor while writing.
+- Write your thesis using our thesis template: [https://github.com/AppliedMachineLearning-Lab/aml_thesis_template](https://github.com/AppliedMachineLearning-Lab/aml_thesis_template)
 
 Furthermore, there is a fixed structure for meetings with the lab's members:
 - **During the first meeting**, the student pitches their idea and receives feedback on its feasibility.
