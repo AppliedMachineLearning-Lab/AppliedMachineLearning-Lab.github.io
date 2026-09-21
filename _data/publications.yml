@@ -8,17 +8,6 @@
 # Entries are matched by `key`, falling back to the title, so hand edits
 # follow a paper when DBLP re-keys it from a preprint to a published record.
 
-- key: "conf/pkdd/SparrenbergDS26"
-  title: "Grokking Is a Geometric Phase Transition: Archetypal Analysis Reveals Causal Structure in Transformer Representations"
-  authors:
-    - "Lorenz Sparrenberg"
-    - "Tobias Deußer"
-    - "Rafet Sifa"
-  year: 2027
-  venue: "ECML PKDD"
-  type: "inproceedings"
-  url: "https://doi.org/10.1007/978-3-032-37670-1_29"
-  dblp: "https://dblp.org/db/conf/pkdd/pkdd2026-5.html#SparrenbergDS26"
 - key: "manual/thesis/deusser2026"
   title: "Hybrid Representation Learning for Information Extraction"
   authors:
@@ -51,6 +40,19 @@
   type: "inproceedings"
   url: "https://doi.org/10.1007/978-3-032-21324-2_21"
   dblp: "https://dblp.org/db/conf/ecir/ecir2026-3.html#ChopraSS26"
+- key: "conf/pkdd/SparrenbergDS26"
+  title: "Grokking Is a Geometric Phase Transition: Archetypal Analysis Reveals Causal Structure in Transformer Representations"
+  authors:
+    - "Lorenz Sparrenberg"
+    - "Tobias Deußer"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "ECML PKDD"
+  type: "inproceedings"
+  url: "https://doi.org/10.1007/978-3-032-37670-1_29"
+  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14452"
+  dblp: "https://dblp.org/db/conf/pkdd/pkdd2026-5.html#SparrenbergDS26"
+  manual: true
 - key: "manual/latentthinking/bashir2026"
   title: "Is continuous CoT better suited for multilingual reasoning?"
   authors:
@@ -726,6 +728,7 @@
   venue: "IEEE Big Data"
   type: "inproceedings"
   url: "https://doi.org/10.1109/BIGDATA62323.2024.10825567"
+  oa_url: "https://doi.org/10.48565/bonndoc-974"
   dblp: "https://dblp.org/db/conf/bigdataconf/bigdataconf2024.html#BergerBBGFLHESB24"
 - key: "conf/bigdataconf/HillebrandBUBWK24"
   title: "Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance"
@@ -870,6 +873,7 @@
   venue: "IEEE Big Data"
   type: "inproceedings"
   url: "https://doi.org/10.1109/BIGDATA62323.2024.10910113"
+  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14467"
   dblp: "https://dblp.org/db/conf/bigdataconf/bigdataconf2024.html#BergerBBMAGFHESBLDBLS24"
 - key: "conf/bigdataconf/UedelhovenLBS24"
   title: "Table Structure Recognition via Encoder/Decoder Vision Transformers"
