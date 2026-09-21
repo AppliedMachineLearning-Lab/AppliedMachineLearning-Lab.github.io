@@ -11,7 +11,7 @@ description: Co-located with DSAA 2026
 
 **Location**: Pride Plaza Hotel, Aerocity, New Delhi, India  
 **Conference**: [DSAA 2026](https://dsaa2026.dsaa.co/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 6–9, 2026 (special session slot: TBA)
+**Date**: October 8, 2026
 
 Foundation models and large language systems have become indispensable technologies in data science and analysis,
 opening up powerful possibilities in the areas of text generation, knowledge extraction, and complex decision-making.
@@ -37,11 +37,16 @@ This special session examines the deployment of large language and foundation mo
 
 ## Agenda
 
-*Program for SSLLFM 2026: TBA.*
+Session start: **13:30**. Coffee break: **15:30-16:00**.
 
-| Time | Paper / Speaker | Presenter |
-|------|-----------------|-----------|
-| TBA  | TBA             | TBA       |
+| Time          | Item                                                                 | Presenter |
+|---------------|----------------------------------------------------------------------|-----------|
+| 13:30-13:45   | Introduction (15 min)                                                | Priya Tomar and Prof. Dr. Rafet Sifa |
+| 13:45-14:35   | Keynote: The Operating System for AI-Native Enterprises (50 min)     | Avinash Karn |
+| 14:40-15:30   | Keynote: Towards Trustworthy and Scalable Graph Foundation Models (50 min) | Dr. Sandeep Kumar |
+| 15:30-16:00   | Coffee break                                                         |           |
+| 16:00-17:20   | Paper presentations, 4 talks (80 min total; 20 min each)             | TBA       |
+| 17:20-17:30   | Conclusion (10 min)                                                  | Priya Tomar |
 
 ## Keynotes
 
