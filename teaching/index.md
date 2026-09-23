@@ -41,7 +41,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 # Course: Mining Media Data I
 
-See [here](./archive/mmdi25/) for the archived iteration (Winter Semester 2025/2026) of this course.
+See [here](./mmdi2627/) for the current iteration of this lab.
 
 This course, offered as part of the Master's Program in Media Informatics at the Bonn-Aachen International Center for Information Technology (B-IT), provides a comprehensive exploration of advanced data mining techniques tailored for media data analysis. Students will delve into methods like affinity mining, latent pattern mining, neural networks, and archetypal analysis to uncover insights in behavioral profiling, recommender systems, and outlier detection. Emphasis is placed on theoretical understanding and practical application through mathematical optimization, interpretable models, and real-world case studies, enabling participants to harness data for impactful digital marketing, fraud detection, and content personalization.
 
