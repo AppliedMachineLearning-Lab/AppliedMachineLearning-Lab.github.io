@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mining Media Data I WS26 (MA-INF 4117)
+description: Winter Semester 2027
+---
+
 # Mining Media Data I WS26 (MA-INF 4117)
 
 Lectures will take place every Wednesday 15:00-16:30 at the B-IT, room 2.113 (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). The first lecture will take place on 14.10.26. Exercises will take place on selected Wednesdays from 13:00-14:30 at the B-IT, room 0.108. The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa/Dr. Lorenz Sparrenberg.
