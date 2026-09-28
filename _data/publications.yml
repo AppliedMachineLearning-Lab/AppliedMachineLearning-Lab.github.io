@@ -50,8 +50,8 @@
   venue: "ECML PKDD"
   type: "inproceedings"
   url: "https://doi.org/10.1007/978-3-032-37670-1_29"
-  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14452"
   dblp: "https://dblp.org/db/conf/pkdd/pkdd2026-5.html#SparrenbergDS26"
+  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14452"
   manual: true
 - key: "manual/latentthinking/bashir2026"
   title: "Is continuous CoT better suited for multilingual reasoning?"
@@ -68,6 +68,18 @@
   url: "https://openreview.net/forum?id=G8u9vi3ZHc"
   dblp: ""
   manual: true
+- key: "conf/ijcai/ChopraSTS26"
+  title: "Knowing When Not to Predict: Self Supervised Learning and Abstention for Safer DR Screening"
+  authors:
+    - "Muskaan Chopra"
+    - "Lorenz Sparrenberg"
+    - "Jan H. Terheyden"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "IJCAI/ECAI"
+  type: "inproceedings"
+  url: "https://doi.org/10.24963/IJCAI.2026/742"
+  dblp: "https://dblp.org/db/conf/ijcai/ijcai2026.html#ChopraSTS26"
 - key: "manual/midl/moustafa2026"
   title: "Generalizing Abstention for Noise-Robust Learning in Medical Image Segmentation"
   authors:
@@ -144,18 +156,6 @@
   url: "https://arxiv.org/abs/2603.08177"
   dblp: "https://dblp.org/db/journals/corr/corr2603.html#abs-2603-08177"
   superseded: true
-- key: "journals/corr/abs-2605-19133"
-  title: "Knowing When Not to Predict: Self Supervised Learning and Abstention for Safer DR Screening"
-  authors:
-    - "Muskaan Chopra"
-    - "Lorenz Sparrenberg"
-    - "Jan H. Terheyden"
-    - "Rafet Sifa"
-  year: 2026
-  venue: "arXiv"
-  type: "preprint"
-  url: "https://arxiv.org/abs/2605.19133"
-  dblp: "https://dblp.org/db/journals/corr/corr2605.html#abs-2605-19133"
 - key: "journals/corr/abs-2602-08387"
   title: "Modalities, a PyTorch-native Framework For Large-scale LLM Training and Research"
   authors:
@@ -728,8 +728,8 @@
   venue: "IEEE Big Data"
   type: "inproceedings"
   url: "https://doi.org/10.1109/BIGDATA62323.2024.10825567"
-  oa_url: "https://doi.org/10.48565/bonndoc-974"
   dblp: "https://dblp.org/db/conf/bigdataconf/bigdataconf2024.html#BergerBBGFLHESB24"
+  oa_url: "https://doi.org/10.48565/bonndoc-974"
 - key: "conf/bigdataconf/HillebrandBUBWK24"
   title: "Advancing Risk and Quality Assurance: A RAG Chatbot for Improved Regulatory Compliance"
   authors:
@@ -873,8 +873,8 @@
   venue: "IEEE Big Data"
   type: "inproceedings"
   url: "https://doi.org/10.1109/BIGDATA62323.2024.10910113"
-  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14467"
   dblp: "https://dblp.org/db/conf/bigdataconf/bigdataconf2024.html#BergerBBMAGFHESBLDBLS24"
+  oa_url: "https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14467"
 - key: "conf/bigdataconf/UedelhovenLBS24"
   title: "Table Structure Recognition via Encoder/Decoder Vision Transformers"
   authors:
