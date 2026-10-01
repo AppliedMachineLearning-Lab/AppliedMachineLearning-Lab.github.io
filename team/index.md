@@ -16,8 +16,8 @@ description: false
 
 ## PhD Students
 
-Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Hossam Elsafty, Priya Priya, Shahzeb Qamar, Svetlana Schmidt
+Farizeh Aldabbas, Manuela Bergau, [Armin Berger](arminberger/), Muskaan Chopra, Hossam Elsafty, Priya Priya, Shahzeb Qamar, Svetlana Schmidt
 
 ## Student Assistants
 
-Muskaan Chopra, Muhammad Ibrahim Afsar Khan, Mai Nguyen Nhat, Tobias Schneider
+Muhammad Ibrahim Afsar Khan, Mai Nguyen Nhat, Tobias Schneider
