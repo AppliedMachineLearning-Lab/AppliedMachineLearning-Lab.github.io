@@ -18,12 +18,12 @@ Lectures will take place every Wednesday 15:00-16:30 at the B-IT, room 0.108 (Fr
 |               Lecture 6 | 25. Nov | Latent Pattern Mining III   |
 |                         | 02. Dec | No Lecure                   |
 |               Lecture 7 | 09. Dec | Outlier Analysis            |
-|               Lecture 8 | 16. Dec | Preditctive Data Mining I   |
+|               Lecture 8 | 16. Dec | Predictive Data Mining I   |
 |                         | 23. Dec | No Lecure                   |
 |                         | 30. Dec | No Lecure                   |
 |                         | 06. Jan | No Lecure                   |
-|              Lecture 9  | 13. Jan | Preditctive Data Mining II  |
-|              Lecture 10 | 20. Jan | Preditctive Data Mining III |
+|              Lecture 9  | 13. Jan | Predictive Data Mining II  |
+|              Lecture 10 | 20. Jan | Predictive Data Mining III |
 |              Lecture 11 | 27. Jan | Recap                       |
 |              Exam 1     | 24. Feb | First take                  |
 |              Exam 2     | 31. Mar | Second take                 |
