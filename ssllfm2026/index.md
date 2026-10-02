@@ -11,7 +11,7 @@ description: Co-located with DSAA 2026
 
 **Location**: Pride Plaza Hotel, Aerocity, New Delhi, India  
 **Conference**: [DSAA 2026](https://dsaa2026.dsaa.co/) (IEEE International Conference on Data Science and Advanced Analytics)  
-**Date**: October 8, 2026
+**Date**: October 8, 2026 (Indian Standard Time, IST / UTC+5:30)
 
 Foundation models and large language systems have become indispensable technologies in data science and analysis,
 opening up powerful possibilities in the areas of text generation, knowledge extraction, and complex decision-making.
@@ -37,10 +37,11 @@ This special session examines the deployment of large language and foundation mo
 
 ## Agenda
 
-Session start: **11:30**. **Session moderator:** Priya Tomar.
+Session start: **11:30 IST**. **Session moderator:** Priya Tomar.
 
+*All agenda times are in Indian Standard Time (IST, UTC+5:30).*
 
-| Time        | Type         | Title                                                                                                | Presenter                              |
+| Time (IST)  | Type         | Title                                                                                                | Presenter                              |
 | ----------- | ------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 11:30-11:45 | Introduction | Opening remarks                                                                                      | Prof. Dr. Rafet Sifa & Dr. Linsey Pang |
 | 11:45-12:30 | Keynote      | [The Operating System for AI-Native Enterprises](#keynote-mouli)                                     | Avinash Karn                           |
