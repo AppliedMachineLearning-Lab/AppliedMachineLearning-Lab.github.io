@@ -422,6 +422,23 @@
   type: "inproceedings"
   url: "https://doi.org/10.18653/V1/2025.EMNLP-MAIN.449"
   dblp: "https://dblp.org/db/conf/emnlp/emnlp2025.html#AliBLWKRJKWSKMFSFKSFK25"
+- key: "conf/iconip/SchneiderNPLTBS24"
+  title: "Informed Deep Abstaining Classifier: Investigating Noise-Robust Training for Diagnostic Decision Support Systems Systems"
+  authors:
+    - "Helen Schneider"
+    - "Sebastian Nowak"
+    - "Aditya Parikh"
+    - "Yannik C. Layer"
+    - "Maike Theis"
+    - "Wolfgang Block"
+    - "Alois M. Sprinkart"
+    - "Ulrike I. Attenberger"
+    - "Rafet Sifa"
+  year: 2025
+  venue: "ICONIP"
+  type: "inproceedings"
+  url: "https://doi.org/10.1007/978-981-96-6960-8_28"
+  dblp: "https://dblp.org/db/conf/iconip/iconip2024-c5.html#SchneiderNPLTBS24"
 - key: "conf/icsa/LubberingSCPSS25"
   title: "Architectural Proposal for Reproducible, Standardized Deep Learning Research"
   authors:
