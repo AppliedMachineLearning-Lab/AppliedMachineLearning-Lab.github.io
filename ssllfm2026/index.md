@@ -46,10 +46,10 @@ Session start: **11:30 IST**. **Session moderator:** Priya Tomar.
 | 11:30-11:45 | Introduction | Opening remarks                                                                                      | Prof. Dr. Rafet Sifa & Dr. Linsey Pang |
 | 11:45-12:30 | Keynote      | [The Operating System for AI-Native Enterprises](#keynote-mouli)                                     | Avinash Karn                           |
 | 12:30-13:30 | Lunch break  |                                                                                                      |                                        |
-| 13:30-14:45 | Keynote      | [Towards Trustworthy and Scalable Graph Foundation Models](#keynote-sandeep)                         | Dr. Sandeep Kumar                      |
-| 14:45-15:00 | Paper        | ChatGIT: Intent-Aware Routing for Multi-Turn Conversational Code Retrieval                           | TBA                                    |
-| 15:00-15:15 | Paper        | Towards Empathetic AI: MITI-Guided Evaluation of Large Language Models for Motivational Interviewing | TBA                                    |
-| 15:15-15:30 | Paper        | ZoneGate: Per-Zone Deployment Readiness for Vision-Language Models in Industrial CCTV                | TBA                                    |
+| 13:30-14:15 | Keynote      | [Towards Trustworthy and Scalable Graph Foundation Models](#keynote-sandeep)                         | Dr. Sandeep Kumar                      |
+| 14:15-14:30 | Paper        | ChatGIT: Intent-Aware Routing for Multi-Turn Conversational Code Retrieval                           | Prakhar Sethi                          |
+| 14:30-14:45 | Paper        | Towards Empathetic AI: MITI-Guided Evaluation of Large Language Models for Motivational Interviewing | Vivek Kumar                            |
+| 14:45-15:00 | Paper        | ZoneGate: Per-Zone Deployment Readiness for Vision-Language Models in Industrial CCTV                | SNReddy Yarrabothula                   |
 
 
 ## Keynotes
