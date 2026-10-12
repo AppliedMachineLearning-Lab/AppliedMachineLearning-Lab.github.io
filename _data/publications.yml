@@ -94,6 +94,22 @@
   url: "https://proceedings.mlr.press/v315/moustafa26a.html"
   dblp: ""
   manual: true
+- key: "journals/corr/abs-2609-07664"
+  title: "Accuracy is Not Enough: A Divergence-Based Approach to Evaluate Fidelity Loss in Quantized LLMs"
+  authors:
+    - "Shahzeb Qamar"
+    - "Lorenz Sparrenberg"
+    - "Christian Bauckhage"
+    - "Baha Rababah"
+    - "Carson K. Leung"
+    - "Murat Kantarcioglu"
+    - "Cuneyt Gurcan Akcora"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "arXiv"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.07664"
+  dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-07664"
 - key: "journals/corr/abs-2601-14160"
   title: "Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law"
   authors:
@@ -175,6 +191,20 @@
   type: "preprint"
   url: "https://arxiv.org/abs/2602.08387"
   dblp: "https://dblp.org/db/journals/corr/corr2602.html#abs-2602-08387"
+- key: "journals/corr/abs-2609-11335"
+  title: "On the Impact of Anonymization on the Performance of Large Language Models"
+  authors:
+    - "Tobias Deußer"
+    - "Max Hahnbück"
+    - "Lorenz Sparrenberg"
+    - "Tobias Uelwer"
+    - "Christian Bauckhage"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "arXiv"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.11335"
+  dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-11335"
 - key: "manual/thesis/hillebrand2025"
   title: "Deep Representation Learning for Financial Document Analytics"
   authors:
