@@ -27,3 +27,6 @@ Lectures will take place every Wednesday 15:00-16:30 at the B-IT, room 0.108 (Fr
 |              Lecture 11 | 27. Jan | Recap                       |
 |              Exam 1     | 24. Feb | First take                  |
 |              Exam 2     | 31. Mar | Second take                 |
+
+## Lecure Notes
+- Lecture 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_01_Introduction_WS26.zip)
