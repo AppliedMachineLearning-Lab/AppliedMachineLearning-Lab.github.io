@@ -110,6 +110,22 @@
   type: "preprint"
   url: "https://arxiv.org/abs/2609.07664"
   dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-07664"
+- key: "journals/corr/abs-2609-30009"
+  title: "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation"
+  authors:
+    - "Tobias Deußer"
+    - "Abhishek Pillai"
+    - "Aurelio F. Bariviera"
+    - "Dhananjay Bhardwaj"
+    - "Lorenz Sparrenberg"
+    - "David Berghaus"
+    - "Christian Bauckhage"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "arXiv"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.30009"
+  dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-30009"
 - key: "journals/corr/abs-2601-14160"
   title: "Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law"
   authors:
@@ -128,6 +144,17 @@
   type: "preprint"
   url: "https://arxiv.org/abs/2601.14160"
   dblp: "https://dblp.org/db/journals/corr/corr2601.html#abs-2601-14160"
+- key: "journals/corr/abs-2609-37647"
+  title: "Evaluating and Benchmarking the System One Model Jev"
+  authors:
+    - "Tobias Deußer"
+    - "Lorenz Sparrenberg"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "arXiv"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2609.37647"
+  dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-37647"
 - key: "journals/corr/abs-2601-14039"
   title: "Generalizing Abstention for Noise-Robust Learning in Medical Image Segmentation"
   authors:
