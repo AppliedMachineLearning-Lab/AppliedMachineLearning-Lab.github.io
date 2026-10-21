@@ -42,8 +42,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 |------------|------------|--------------------------------------|---------------------------------------|---------------------------------------------|
 | Lecture 1  | 22.10.26   | Course Intro                         |                                       |                                             |
 | Lecture 2  | 29.10.26   | Mathematical Cores                   |                                       | Exercise 1 out                              |
-| Lecture 3  | 05.11.26   | Mathematical Cores                   |                                       |                                             |
-| Lecture 4  | 12.11.26   | Mathematical Cores                   | PyTorch\*                             |                                             |
+| Lecture 3  | 05.11.26   | Mathematical Cores                   | PyTorch                               |                                             |
+| Lecture 4  | 12.11.26   | Mathematical Cores                   |                                       |                                             |
 | Lecture 5  | 19.11.26   | Mathematical Cores                   |                                       | Exercise 1 Discussion, Exercise 2 out       |
 | Lecture 6  | 26.11.26   | Introduction to Machine Learning     |                                       |                                             |
 | Lecture 7  | 03.12.26   | Introduction to Machine Learning     |                                       |                                             |
@@ -56,8 +56,6 @@ Practical Examples will serve as a capstone to the course, where students will e
 | Lecture 11 | 21.01.27   | Agents & Harness 1                   | Uncertainty Modeling in Deep Learning |                                             |
 | Lecture 12 | 28.01.27   | Agents & Harness 2 and Wrap-up       |                                       | Exercise 3 Discussion                       |
 | No Lecture | 04.02.27   |                                      |                                       |                                             |
-
-\* The PyTorch Lecture+ will take place on either 05.11.26 or 12.11.26. The final date will be announced in the lecture.
 
 ## Course Materials
 
