@@ -6,7 +6,7 @@ description: An overview of teaching activities of the AML Lab
 
 # Course: Introduction to Learning Systems and Data Science
 
-See [here](./archive/ilsds25/) for the archived iteration (Winter Semester 2025/2026) of this course.
+See [here](./ilsds26/) for the current iteration of this course, and [here](./archive/ilsds25/) for the archived iteration (Winter Semester 2025/2026).
 
 This course, part of the curriculum for aspiring data scientists and AI practitioners, offers a foundational understanding of key concepts and methodologies in learning systems and data science. The primary focus is on learning systems, their architectures, and how they can be effectively designed and implemented to solve complex problems.
 
