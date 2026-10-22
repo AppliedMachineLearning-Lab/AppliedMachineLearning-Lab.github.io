@@ -59,10 +59,7 @@ This list of topics is organized by the mentor that is offering to supervise the
     - Mandatory reading before contacting: *Resource-Efficient Anonymization of Textual Data via Knowledge Distillation from Large Language Models* by Deußer et al., *A survey on current trends and recent advances in text anonymization* by Deußer et al.
 
 #### Hossam Elsafty
-
-- **Diacritization (Tashkeel) Generation and Downstream Arabic NLP Effects**
-- **MSA to Dialectal Arabic NLP tasks**
-- **Arabic Document Understanding and OCR**
+- Currently at capacity: not taking on new thesis students at the moment. New topics will be listed again in June 2027.
 
 #### Corinna Schmalohr
 
