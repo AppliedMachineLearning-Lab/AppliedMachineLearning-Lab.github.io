@@ -40,8 +40,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 | Lecture    | Date       | Lecture Title                        | Lecture +                             | Exercise                                    |
 |------------|------------|--------------------------------------|---------------------------------------|---------------------------------------------|
-| Lecture 1  | 22.10.26   | Course Intro                         |                                       |                                             |
-| Lecture 2  | 29.10.26   | Mathematical Cores                   |                                       | Exercise 1 out                              |
+| Lecture 1 + Lecture 2 | 29.10.26   | Introduction and Mathematical Cores  |                                       | Exercise 1 out                              |
 | Lecture 3  | 05.11.26   | Mathematical Cores                   | PyTorch                               |                                             |
 | Lecture 4  | 12.11.26   | Mathematical Cores                   |                                       |                                             |
 | Lecture 5  | 19.11.26   | Mathematical Cores                   |                                       | Exercise 1 Discussion, Exercise 2 out       |
