@@ -60,8 +60,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 ### Lecture Slides
 
-Lecture slides will be published here during the semester.
+- [Lecture 1 + 2](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_1_Intro.pdf.zip)
 
 ### Assignments
 
-Assignments will be published here during the semester.
+- [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/Assignment_1_ILSDS_WS26.pdf.zip)
