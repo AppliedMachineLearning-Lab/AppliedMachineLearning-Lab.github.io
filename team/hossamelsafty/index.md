@@ -8,9 +8,9 @@ description: false
 
 ## About me
 
-I am a **Data Scientist** and PhD researcher at the **Applied Machine Learning Lab (AML Lab)** at the **University of Bonn**. My work sits where research meets industry: alongside my PhD, I work on **industrial machine learning projects**, taking models from an idea to systems that run reliably on real-world data.
+I am a **Data Scientist** at **Fraunhofer IAIS** and a PhD researcher at the **Applied Machine Learning Lab (AML Lab)** at the **University of Bonn**. My work sits where research meets industry: alongside my PhD, I work on **industrial machine learning projects**, taking models from an idea to systems that run reliably on real-world data.
 
-My research centres on **low-resource languages, and Arabic in particular**. Arabic is spoken by hundreds of millions of people, yet it remains underserved by today's language models: its many dialects differ sharply from Modern Standard Arabic, diacritics are usually left out of written text, and its script is still hard to read reliably from scanned and photographed documents. I build the datasets, models and evaluations needed to close these gaps.
+My research centres on **low-resource languages, and Arabic in particular**. Arabic is one of the five most spoken languages in the world, yet it remains underserved by today's language models: its many dialects differ sharply from Modern Standard Arabic, diacritics are usually left out of written text, and its script is still hard to read reliably from scanned and photographed documents. I build the datasets, models and evaluations needed to close these gaps.
 
 A recurring theme in my work is **making training work under real constraints**. I optimise how models are trained for the amount and quality of data available, diagnose and fix training problems, and use **knowledge distillation** to turn large models into compact ones that are cheaper to deploy. I also design **fine-tuning pipelines** that adapt foundation models to a specific problem, from data preparation to evaluation.
 
