@@ -80,6 +80,41 @@
   type: "inproceedings"
   url: "https://doi.org/10.24963/IJCAI.2026/742"
   dblp: "https://dblp.org/db/conf/ijcai/ijcai2026.html#ChopraSTS26"
+- key: "conf/ijcnn/BergerBSALBDBFSVS26"
+  title: "Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients"
+  authors:
+    - "Armin Berger"
+    - "Manuela Bergau"
+    - "Helen Schneider"
+    - "Saad Ahmad"
+    - "Tom Anglim Lagones"
+    - "David Berghaus"
+    - "Tobias Deußer"
+    - "Gianluca Brugnara"
+    - "Martha Foltyn-Dumitru"
+    - "Kai Schlamp"
+    - "Philipp Vollmuth"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "IJCNN"
+  type: "inproceedings"
+  url: "https://doi.org/10.1109/IJCNN69854.2026.11729875"
+  dblp: "https://dblp.org/db/conf/ijcnn/ijcnn2026.html#BergerBSALBDBFSVS26"
+- key: "conf/ijcnn/AntebiEHSMHS26"
+  title: "Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles"
+  authors:
+    - "Soren Antebi"
+    - "Stefan Eickeler"
+    - "Sandra Halscheidt"
+    - "René Schmitz"
+    - "Michael Müllers"
+    - "Dirk Hecker"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "IJCNN"
+  type: "inproceedings"
+  url: "https://doi.org/10.1109/IJCNN69854.2026.11729981"
+  dblp: "https://dblp.org/db/conf/ijcnn/ijcnn2026.html#AntebiEHSMHS26"
 - key: "manual/midl/moustafa2026"
   title: "Generalizing Abstention for Noise-Robust Learning in Medical Image Segmentation"
   authors:
@@ -94,6 +129,18 @@
   url: "https://proceedings.mlr.press/v315/moustafa26a.html"
   dblp: ""
   manual: true
+- key: "conf/wmt/AldabbasAES26"
+  title: "FARABI at WMT 2026: Post-Hoc Channel Controllers for Low-Resource Arabic-Asian Machine Translation"
+  authors:
+    - "Farizeh Aldabbas"
+    - "Zyad Altahan"
+    - "Hossam Elsafty"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "WMT"
+  type: "inproceedings"
+  url: "https://aclanthology.org/2026.wmt-main.166/"
+  dblp: "https://dblp.org/db/conf/wmt/wmt2026.html#AldabbasAES26"
 - key: "journals/corr/abs-2609-07664"
   title: "Accuracy is Not Enough: A Divergence-Based Approach to Evaluate Fidelity Loss in Quantized LLMs"
   authors:
@@ -169,21 +216,6 @@
   url: "https://arxiv.org/abs/2601.14039"
   dblp: "https://dblp.org/db/journals/corr/corr2601.html#abs-2601-14039"
   superseded: true
-- key: "journals/corr/abs-2607-04811"
-  title: "Hybrid Deep Learning for Traceability and Classification of Industrial Slate Tiles"
-  authors:
-    - "Soren Antebi"
-    - "Stefan Eickeler"
-    - "Sandra Halscheidt"
-    - "Rene Schmitz"
-    - "Michael Muellers"
-    - "Dirk Hecker"
-    - "Rafet Sifa"
-  year: 2026
-  venue: "arXiv"
-  type: "preprint"
-  url: "https://arxiv.org/abs/2607.04811"
-  dblp: "https://dblp.org/db/journals/corr/corr2607.html#abs-2607-04811"
 - key: "journals/corr/abs-2603-08177"
   title: "Is continuous CoT better suited for multi-lingual reasoning?"
   authors:
@@ -679,24 +711,6 @@
   url: "https://doi.org/10.1371/journal.pone.0318097"
   dblp: ""
   manual: true
-- key: "journals/corr/abs-2512-23090"
-  title: "Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients"
-  authors:
-    - "Armin Berger"
-    - "Manuela Bergau"
-    - "Helen Schneider"
-    - "Saad Ahmad"
-    - "Tom Anglim Lagones"
-    - "Gianluca Brugnara"
-    - "Martha Foltyn-Dumitru"
-    - "Kai Schlamp"
-    - "Philipp Vollmuth"
-    - "Rafet Sifa"
-  year: 2025
-  venue: "arXiv"
-  type: "preprint"
-  url: "https://arxiv.org/abs/2512.23090"
-  dblp: "https://dblp.org/db/journals/corr/corr2512.html#abs-2512-23090"
 - key: "journals/corr/abs-2507-16695"
   title: "Interpretable Topic Extraction and Word Embedding Learning using row-stochastic DEDICOM"
   authors:
