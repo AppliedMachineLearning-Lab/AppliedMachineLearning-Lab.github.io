@@ -23,7 +23,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 ## News
 
-- Course materials will be published here during the semester.
+- 10/11/2026: This week's lecture (12.11.26) has been moved to room U1.105 due to the b-it welcome party.
+- 10/11/2026: Students who have not yet sent their email for the mailing list: please send an email with the subject "ILSDS-26 Mailing list" to amllab[at]bit.uni-bonn.de to receive course updates.
 
 ## Course Topics
 - Linear Algebra and Statistics for Data Science
