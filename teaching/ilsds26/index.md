@@ -5,6 +5,15 @@ description: Winter Semester 2026/2027
 ---
 # Course: Introduction to Learning Systems and Data Science
 
+<div class="course-news" markdown="1">
+
+## News
+
+- **10/11/2026:** This week's lecture (12.11.26) has been moved to room U1.105 due to the b-it welcome party.
+- **10/11/2026:** Students who have not yet sent their email for the mailing list: please send an email with the subject "ILSDS-26 Mailing list" to amllab[at]bit.uni-bonn.de to receive course updates.
+
+</div>
+
 This course, part of the curriculum for aspiring data scientists and AI practitioners, offers a foundational understanding of key concepts and methodologies in learning systems and data science. The primary focus is on learning systems, their architectures, and how they can be effectively designed and implemented to solve complex problems.
 
 Students will begin with **Linear Algebra and Statistics for Data Science**, which are crucial for understanding data structures and algorithms used in learning systems. This mathematical foundation will support later explorations into model evaluation and performance assessment.
@@ -20,11 +29,6 @@ An important aspect of the course will be **Hybrid Learning Approaches**, highli
 Human-centred Design principles will be emphasized to ensure that learning systems are intuitive, user-friendly, and effectively meet user needs. The course will also delve into the ethical implications of developing and deploying learning systems, covering considerations such as bias, fairness, and transparency in AI.
 
 Practical Examples will serve as a capstone to the course, where students will engage in hands-on projects that reinforce learning. These projects will allow participants to apply the theoretical concepts learned throughout the course to build real-world learning systems that can analyze data, make decisions, and interact with users effectively.
-
-## News
-
-- 10/11/2026: This week's lecture (12.11.26) has been moved to room U1.105 due to the b-it welcome party.
-- 10/11/2026: Students who have not yet sent their email for the mailing list: please send an email with the subject "ILSDS-26 Mailing list" to amllab[at]bit.uni-bonn.de to receive course updates.
 
 ## Course Topics
 - Linear Algebra and Statistics for Data Science
