@@ -32,6 +32,7 @@ Lectures will take place every Wednesday 16:00-17:30 at lecture hall 1.002 (Hör
 - Lecture 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_01_Introduction_WS26.zip)
 - Lecture 02: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_02_AffinityMiningI_WS26.zip)
 - Lecture 03: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_03_AffinityMiningII_WS26.zip)
-
+- Lecture 04: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_04_LatentPatternMiningI_WS26.zip)
+ 
 ## Assignments
 - Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_Assignment_01_WS26.zip)
