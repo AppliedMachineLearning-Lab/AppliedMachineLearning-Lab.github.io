@@ -9,6 +9,7 @@ description: Winter Semester 2026/2027
 
 ## News
 
+- **12/11/2026:** The Mathematical Cores lecture slides have been updated. Please download the latest version under [Lecture Slides](#lecture-slides).
 - **11/11/2026:** The dataset for Assignment 1 is online. You can download it under [Assignments](#assignments).
 - **10/11/2026:** This week's lecture (12.11.26) has been moved to room U1.105 due to the b-it welcome party.
 - **10/11/2026:** Students who have not yet sent their email for the mailing list: please send an email with the subject "ILSDS-26 Mailing list" to amllab[at]bit.uni-bonn.de to receive course updates.
@@ -67,7 +68,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 ### Lecture Slides
 
 - [Introduction](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_1_Intro.pdf.zip)
-- [Mathematical Cores](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_2_MathCores.pdf.zip)
+- [Mathematical Cores (updated)](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_2_MathCores.pdf.zip)
 
 ### Lecture+
 
