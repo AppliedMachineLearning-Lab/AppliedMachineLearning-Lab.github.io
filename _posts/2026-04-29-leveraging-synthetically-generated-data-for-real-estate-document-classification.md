@@ -16,7 +16,7 @@ Our focus is on two document types central to German mortgage financing workflow
 
 The pipeline proceeds as follows:
 
-![Figure 1: The complete data synthesizing and training pipeline for our document classifier.](/assets/blog/leveraging-synthetically-generated-data-for-real-estate-document-classification-training_setup.jpg)
+![Figure 1: The complete data synthesizing and training pipeline for our document classifier.](/assets/blog/2026-04-29-leveraging-synthetically-generated-data-for-real-estate-document-classification.jpg)
 *Figure 1: The complete data synthesizing and training pipeline for our document classifier.*
 
 1. **Template Design:** Real documents are analyzed manually to extract layout patterns, static text, and variable fields.
