@@ -80,8 +80,38 @@ All accepted workshop papers will be published by IEEE in the BigData 2026 Proce
 - Dr. Linsey Pang (PayPal, USA)
 - Dr. Thore Gerlach (European Space Agency, Netherlands)
 
+## Program Committee
 
-
+- Atem John Aguer, Stanford University, USA  
+- Khashayar Alavi, Fraunhofer IAIS, Germany  
+- Farizeh Aldabbas, University of Bonn, Fraunhofer IAIS, Lamarr Institute, Germany  
+- Shubhi Ambast, German Center for Neurodegenerative Diseases, Germany  
+- Sanjana Arun, eBay, USA  
+- Vikrant Bachhav, Condor Software, USA  
+- Mariana Barona, Synthera AI, UK  
+- Manuela Bergau, University of Bonn, Fraunhofer IAIS, Lamarr Institute, Germany  
+- Dhananjay Bhardwaj, Universitat Rovira i Virgili, Spain  
+- Muskaan Chopra, University of Bonn, Germany  
+- Isha Choudhary, Government of India, India  
+- Hossam Elsafty, University of Bonn, Fraunhofer IAIS, Lamarr Institute, Germany  
+- Neda Ghafouri, University of Central Florida, USA  
+- Abhirup Ghosh, Sainapse, USA  
+- Cuneyt Gurcan Akcora, AI Initiative, University of Central Florida, USA  
+- Sarthak Khanna, LexisNexis, Germany  
+- Pranay Kona, Walmart Global Tech, USA  
+- Carson Leung, Department of Computer Science, University of Manitoba, Canada  
+- Hannan Mahadik, ELLIS Tübingen, Germany  
+- Deep Narayan Mishra, Walmart, USA  
+- Shahzeb Qamar, University of Bonn, Germany  
+- Facundo M. Quiroga, Universidad Nacional de La Plata, Argentina  
+- Rajkumar Ramamurthy, University of Bonn, Germany  
+- Aninditha Ramesh, DoorDash, USA  
+- Nishant Ravi Shankar, Oracle, USA  
+- Corinna Schmalohr, University of Bonn, Fraunhofer IAIS, Germany  
+- Tobias Schneider, Fraunhofer IAIS, Germany  
+- Isha Singla, London Business School, UK  
+- Ishita Srivastava, Formidium, India  
+- Akshay Suryawanshi, Apple, USA
 
 ## Previous iterations
  
