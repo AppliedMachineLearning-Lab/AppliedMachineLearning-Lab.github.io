@@ -7,9 +7,9 @@ description: Co-located with IEEE BigData 2026
 # Fourth Workshop on Large Language and Foundation Models (WLLFM 2026)
  
 **Location**: Sheraton Phoenix Downtown, Phoenix, AZ, USA  
-**Room**: Camelback A
+**Room**: Camelback A  
 **Conference**: [BigData 2026](https://bigdataieee.org/BigData2026/) (IEEE International Conference on Big Data)  
-**Date**: **December 15th, 2026**
+**Date**: December 15th, 2026
  
 Large language models (LLMs) and foundation models (FMs) have rapidly emerged as pivotal technologies in data science and analytics, offering unprecedented capabilities in text generation, knowledge extraction, and complex decision-making. However, a significant gap remains between the rapid theoretical advancements in these models and their robust, scalable deployment in industrial environments.
 
