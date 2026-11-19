@@ -9,6 +9,7 @@ description: Winter Semester 2026/2027
 
 ## News
 
+- **20/11/2026:** Assignment 2 is online. You can download it under [Assignments](#assignments). The submission deadline is 16.12.2026 at 20:59 (CET).
 - **20/11/2026:** The Mathematical Cores lecture slides have been updated. Please download the latest version under [Lecture Slides](#lecture-slides).
 - **12/11/2026:** The Mathematical Cores lecture slides have been updated. Please download the latest version under [Lecture Slides](#lecture-slides).
 - **11/11/2026:** The dataset for Assignment 1 is online. You can download it under [Assignments](#assignments).
@@ -79,3 +80,4 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 - [Assignment 1](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/Assignment_1_ILSDS_WS26.pdf.zip)
     - [Dataset: Train_Face_Data_Sample](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/Train_Face_Data_Sample.zip)
+- [Assignment 2](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/Assignment_2_ILSDS_WS26.pdf.zip)
