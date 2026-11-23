@@ -173,6 +173,21 @@
   type: "preprint"
   url: "https://arxiv.org/abs/2609.30009"
   dblp: "https://dblp.org/db/journals/corr/corr2609.html#abs-2609-30009"
+- key: "journals/corr/abs-2610-16322"
+  title: "BehaviorFormer: Discovering Behavioral Patterns via Clusterable Next-Token Prediction"
+  authors:
+    - "Tobias Schneider"
+    - "Danial Fahrner"
+    - "Soren Antebi"
+    - "Daniel Uedelhoven"
+    - "Lennard Bodden"
+    - "Sandra Halscheidt"
+    - "Rafet Sifa"
+  year: 2026
+  venue: "arXiv"
+  type: "preprint"
+  url: "https://arxiv.org/abs/2610.16322"
+  dblp: "https://dblp.org/db/journals/corr/corr2610.html#abs-2610-16322"
 - key: "journals/corr/abs-2601-14160"
   title: "Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law"
   authors:
