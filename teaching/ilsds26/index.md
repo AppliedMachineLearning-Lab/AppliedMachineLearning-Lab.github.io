@@ -9,6 +9,7 @@ description: Winter Semester 2026/2027
 
 ## News
 
+- **26/11/2026:** The Lecture+ "Introduction to NLP" has been moved from 10.12.2026 to 03.12.2026. See the updated [Course Schedule](#course-schedule).
 - **20/11/2026:** Assignment 2 is online. You can download it under [Assignments](#assignments). The submission deadline is 16.12.2026 at 20:59 (CET).
 - **20/11/2026:** The Mathematical Cores lecture slides have been updated. Please download the latest version under [Lecture Slides](#lecture-slides).
 - **12/11/2026:** The Mathematical Cores lecture slides have been updated. Please download the latest version under [Lecture Slides](#lecture-slides).
@@ -54,8 +55,8 @@ Practical Examples will serve as a capstone to the course, where students will e
 | Lecture 4  | 12.11.26   | Mathematical Cores                   |                                       |                                             |
 | Lecture 5  | 19.11.26   | Mathematical Cores                   |                                       | Exercise 1 Discussion, Exercise 2 out       |
 | Lecture 6  | 26.11.26   | Introduction to Machine Learning     |                                       |                                             |
-| Lecture 7  | 03.12.26   | Introduction to Machine Learning     |                                       |                                             |
-| Lecture 8  | 10.12.26   | Introduction to Machine Learning     | Introduction to NLP                   |                                             |
+| Lecture 7  | 03.12.26   | Introduction to Machine Learning     | Introduction to NLP                   |                                             |
+| Lecture 8  | 10.12.26   | Introduction to Machine Learning     |                                       |                                             |
 | Lecture 9  | 17.12.26   | Transformers                         |                                       | Exercise 2 Discussion, Exercise 3 out       |
 | No Lecture | 24.12.26   |                                      |                                       |                                             |
 | No Lecture | 31.12.26   |                                      |                                       |                                             |
