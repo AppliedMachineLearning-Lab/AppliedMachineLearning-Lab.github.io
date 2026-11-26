@@ -72,6 +72,7 @@ Practical Examples will serve as a capstone to the course, where students will e
 
 - [Introduction](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_1_Intro.pdf.zip)
 - [Mathematical Cores (updated)](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_2_MathCores.pdf.zip)
+- [Introduction to Machine Learning](https://github.com/AppliedMachineLearning-Lab/ilsds_WS2026/raw/refs/heads/main/ILSDS_WS26_Part_3_MachineLearningIntro.pdf.zip)
 
 ### Lecture+
 
