@@ -52,6 +52,14 @@ This list of topics is organized by the mentor that is offering to supervise the
 #### Farizeh Aldabbas
 - Currently at capacity: not taking on new thesis students at the moment.
 
+#### Muskaan Chopra
+- **Representation Geometry for Reliability-Aware Model Selection in Computer Vision**
+    - Mandatory reading before contacting: *Knowing When Not to Predict: Self-Supervised Learning and Abstention for Safer DR Screening* by Chopra et al., *RankMe: Assessing the Downstream Performance of Pretrained Self-Supervised Representations by Their Rank* by Garrido et al.
+- **Linguistic Instability and Reliability in Compact Multilingual Language Models**
+    - Mandatory reading before contacting: *How Small Can You Go? Compact Language Models for On-Device Critical Error Detection in Machine Translation* by Chopra et al., *Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR* by Mazumder et al.
+- **Error-Type-Aware Cross-Lingual Knowledge Transfer for Low-Resource Languages**
+    - Mandatory reading before contacting: *SynCED-EnDe 2025: A Synthetic and Curated English-German Dataset for Critical Error Detection in Machine Translation* by Chopra et al., *Multi-Hall-SA: A Cross-lingual Benchmark for Multi-Type Hallucination Detection in Low-Resource South African Languages* by Ralethe and Buys, *Do LLM Hallucination Detectors Suffer from Low-Resource Effect?* by Datta et al.     
+
 #### Tobias Deußer
 - **Constrained Entity Decoding with Diffusion Models**
     - Mandatory reading before contacting: *Large Language Diffusion Models* by Nie et al., *Informed Named Entity Recognition Decoding for Generative Language Models* by Deußer et al., *Diffusion-LM Improves Controllable Text Generation* by Li et al.
