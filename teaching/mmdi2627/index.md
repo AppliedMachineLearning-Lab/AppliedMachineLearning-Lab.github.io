@@ -38,4 +38,4 @@ Lectures will take place every Wednesday 16:00-17:30 at lecture hall 1.002 (Hör
     
 ## Assignments
 - Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_Assignment_01_WS26.zip)
-- Assignment 01: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_Assignment_02_WS26.zip)
+- Assignment 02: [ZIP Download](https://github.com/AppliedMachineLearning-Lab/mining_media_data_I_WS26/blob/main/MMDI_Assignment_02_WS26.zip)
